@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+raw_data/
+processed_data/
+code/
+black-sheep-club.Rproj
