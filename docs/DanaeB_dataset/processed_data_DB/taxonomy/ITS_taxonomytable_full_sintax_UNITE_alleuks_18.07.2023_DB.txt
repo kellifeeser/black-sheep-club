@@ -1,0 +1,829 @@
+OTU1	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	0.96	Eurotiales	Order	0.9216	Aspergillaceae	Family	0.8847	Penicillium	Genus	0.8493		Species	
+OTU10	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Eurotiomycetes	Class	0.9703	Eurotiales	Order	0.9606	Aspergillaceae	Family	0.951	Penicillium	Genus	0.9415		Species	
+OTU100	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Dioszegia	Genus	1	Dioszegia_takashimae	Species	0.77
+OTU101	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1	Lactuca	Genus	1	Lactuca_serriola	Species	0.86
+OTU102	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	0.97	Exophiala_dermatitidis	Species	0.9409
+OTU103	+	Fungi	Domain	1																		
+OTU104	+	Fungi	Domain	1	Basidiomycota	Phylum	0.96	Agaricomycetes	Class	0.9216	Agaricales	Order	0.8847	Schizophyllaceae	Family	0.8493	Schizophyllum	Genus	0.8154	Schizophyllum_commune	Species	0.7828
+OTU105	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1									
+OTU106	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Saccharomycetales_fam_Incertae_sedis	Family	1	Candida	Genus	1	Candida_parapsilosis	Species	0.88
+OTU107	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9606	Aspergillus	Genus	0.8549	Aspergillus_terreus	Species	0.7181
+OTU108	+	Fungi	Domain	0.86	Ascomycota	Phylum	0.7224	Leotiomycetes	Class	0.6068	Thelebolales	Order	0.4733	Pseudeurotiaceae	Family	0.3645	Pseudogymnoascus	Genus	0.2551	Pseudogymnoascus_pannorum	Species	0.1786
+OTU109	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Malpighiales	Order	0.98	Salicaceae	Family	0.9506	Populus	Genus	0.7985	Populus_euphratica	Species	0.3354
+OTU11	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1						
+OTU110	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Capnodiales	Order	0.99	Cladosporiaceae	Family	0.9801	Cladosporium	Genus	0.9605	Cladosporium_sphaerospermum	Species	0.7396
+OTU111	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Cannabaceae	Family	1	Cannabis	Genus	1	Cannabis_sativa	Species	1
+OTU112	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.97	Pleosporales	Order	0.9409	Cucurbitariaceae	Family	0.8939	Pyrenochaetopsis	Genus	0.7955	Pyrenochaetopsis_tabarestanensis	Species	0.5887
+OTU113	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Xylariales	Order	0.9703	Diatrypaceae	Family	0.9606	Peroneutypa	Genus	0.951	Peroneutypa_scoparia	Species	0.9415
+OTU114	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Podosphaera	Genus	1	Podosphaera_filipendulensis	Species	0.84
+OTU115	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Alternaria	Genus	1	Alternaria_papavericola	Species	0.52
+OTU116	+	Fungi	Domain	1	Basidiomycota	Phylum	0.62	Tremellomycetes	Class	0.3844	Filobasidiales	Order	0.2383	Filobasidiaceae	Family	0.1478	Naganishia	Genus	0.0916	Naganishia_albida	Species	0.0504
+OTU117	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Helotiales	Order	1	Myxotrichaceae	Family	0.98	Oidiodendron	Genus	0.784	Oidiodendron_griseum	Species	0.6272
+OTU118	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9604	Eurotiomycetes	Class	0.9412	Eurotiales	Order	0.9224	Aspergillaceae	Family	0.9039	Penicillium	Genus	0.8678	Penicillium_westlingii	Species	0.1996
+OTU119	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Hymenochaetaceae	Family	1	Fomitiporia	Genus	0.97	Fomitiporia_ignea	Species	0.873
+OTU12	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Torulaceae	Family	1	Dendryphion	Genus	0.99	Dendryphion_europaeum	Species	0.8613
+OTU120	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	0.93	Saccharomycetaceae	Family	0.8649	Saccharomyces	Genus	0.8044	Saccharomyces_mikatae	Species	0.2735
+OTU121	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Periconiaceae	Family	0.99	Periconia	Genus	0.9801	Periconia_chimonanthi	Species	0.9605
+OTU122	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Ulmaceae	Family	0.98	Ulmus	Genus	0.7056			
+OTU123	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Psathyrellaceae	Family	1	Coprinopsis	Genus	1	Coprinopsis_cinerea	Species	1
+OTU124	+	Fungi	Domain	1																		
+OTU125	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	0.98	Trebouxiaceae	Family	0.9604	Trebouxia	Genus	0.9412	Trebouxia_arboricola	Species	0.5459
+OTU126	+	Fungi	Domain	0.98	Basidiomycota	Phylum	0.9604	Agaricomycetes	Class	0.9412	Polyporales	Order	0.9224	Steccherinaceae	Family	0.9039	Steccherinum	Genus	0.8135	Steccherinum_fimbriatum	Species	0.6752
+OTU127	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Apiales	Order	0.97	Apiaceae	Family	0.9409	Daucus	Genus	0.7339	Daucus_gracilis	Species	0.2715
+OTU128	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1						
+OTU129	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.8514	Agaricomycetes	Class	0.7322	Cantharellales	Order	0.6297	Ceratobasidiaceae	Family	0.5352						
+OTU13	+	Fungi	Domain	0.9	Ascomycota	Phylum	0.684	Dothideomycetes	Class	0.5198	Pleosporales	Order	0.3951	Pleosporaceae	Family	0.3003	Alternaria	Genus	0.2282	Alternaria_alternata	Species	0.1095
+OTU130	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricostilbomycetes	Class	1	Agaricostilbales	Order	1	Kondoaceae	Family	0.84	Bensingtonia	Genus	0.6972			
+OTU131	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.6237	Chaetothyriales	Order	0.3929									
+OTU132	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Acarosporales	Order	1	Acarosporaceae	Family	1	Acarospora	Genus	0.8	Acarospora_moenium	Species	0.592
+OTU133	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Sordariomycetes	Class	0.9703	Hypocreales	Order	0.9606									
+OTU134	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1	Xylariaceae	Family	1	Rosellinia	Genus	0.97	Rosellinia_thelena	Species	0.9409
+OTU135	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9702	Eurotiomycetes	Class	0.9508	Eurotiales	Order	0.9318	Aspergillaceae	Family	0.8945	Penicillium	Genus	0.7424	Penicillium_multicolor	Species	0.3935
+OTU136	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9702	Chaetothyriales	Order	0.9508	Herpotrichiellaceae	Family	0.9223	Exophiala	Genus	0.8946			
+OTU137	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sporidesmiales	Order	1	Sporidesmiaceae	Family	1	Sporidesmium	Genus	1	Sporidesmium_spiraeae	Species	1
+OTU138	+	Fungi	Domain	1	Ascomycota	Phylum	0.75	Dothideomycetes	Class	0.555	Coniosporiales	Order	0.3052	Coniosporiaceae	Family	0.1679	Coniosporium	Genus	0.0923			
+OTU139	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Caliciales	Order	1	Physciaceae	Family	1	Physcia	Genus	1			
+OTU14	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Leotiomycetes	Class	0.8064	Helotiales	Order	0.6774	Ploettnerulaceae	Family	0.5419	Cadophora	Genus	0.4281			
+OTU140	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fagales	Order	1	Fagaceae	Family	1	Castanea	Genus	0.73	Castanea_pumila	Species	0.438
+OTU141	+	Fungi	Domain	1	Basidiomycota	Phylum	0.98	Agaricomycetes	Class	0.9604	Polyporales	Order	0.9412	Phanerochaetaceae	Family	0.9224	Bjerkandera	Genus	0.9039	Bjerkandera_adusta	Species	0.6689
+OTU142	+	unidentified	Domain	0.51																		
+OTU143	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Agaricomycetes	Class	0.9801	Hymenochaetales	Order	0.9605	Hymenochaetaceae	Family	0.9413	Fuscoporia	Genus	0.9225	Fuscoporia_ferruginosa	Species	0.7472
+OTU144	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Sporidiobolales	Order	1	Sporidiobolaceae	Family	1	Sporidiobolus	Genus	0.61			
+OTU145	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1						
+OTU146	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Helotiales	Order	1									
+OTU147	+	unidentified	Domain	0.19																		
+OTU148	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Prunus	Genus	0.98			
+OTU149	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiales	Order	1	Cystobasidiaceae	Family	1	Cystobasidium	Genus	1	Cystobasidium_slooffiae	Species	0.92
+OTU15	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Trichomeriaceae	Family	1	Bradymyces	Genus	1	Bradymyces_alpinus	Species	0.82
+OTU150	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Dioszegia	Genus	1			
+OTU151	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Leotiomycetes	Class	0.9703	Helotiales	Order	0.9606	Dermateaceae	Family	0.7973	Naevala	Genus	0.6618			
+OTU152	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.97	Pleosporales	Order	0.9409	Pleomassariaceae	Family	0.5551	Tumularia	Genus	0.2998	Tumularia_aquatica	Species	0.1619
+OTU153	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Phanerochaetaceae	Family	1	Hyphodermella	Genus	1	Hyphodermella_rosae	Species	0.86
+OTU154	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	0.99	Vishniacozyma	Genus	0.9801			
+OTU155	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Thyridariaceae	Family	1	Parathyridaria	Genus	1	Parathyridaria_ramulicola	Species	0.99
+OTU156	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Acarosporales	Order	1	Acarosporaceae	Family	1	Acarospora	Genus	0.84	Acarospora_worthingtoniana	Species	0.588
+OTU157	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	0.95	Strophariaceae	Family	0.9025	Hypholoma	Genus	0.8574	Hypholoma_fasciculare	Species	0.8059
+OTU158	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	0.96	Hymenochaetales_fam_Incertae_sedis	Family	0.9216	Trichaptum	Genus	0.8847	Trichaptum_abietinum	Species	0.8317
+OTU159	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Psathyrellaceae	Family	0.86	Candolleomyces	Genus	0.3956	Candolleomyces_candolleanus	Species	0.1741
+OTU16	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Sordariomycetes	Class	0.9025	Xylariales	Order	0.8574	Amphisphaeriaceae	Family	0.8145	Microdochium	Genus	0.7738	Microdochium_nivale	Species	0.7196
+OTU160	+	Fungi	Domain	1	Basidiomycota	Phylum	0.98	Agaricomycetes	Class	0.9604	Russulales	Order	0.9412	Peniophoraceae	Family	0.9224	Peniophora	Genus	0.9039	Peniophora_simulans	Species	0.5695
+OTU161	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Coryneaceae	Family	1	Coryneum	Genus	1	Coryneum_lanciforme	Species	1
+OTU162	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Debaryomycetaceae	Family	0.98	Yamadazyma	Genus	0.9604	Yamadazyma_triangularis	Species	0.9412
+OTU163	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Caryophyllales	Order	1	Amaranthaceae	Family	1	Amaranthus	Genus	0.76	Amaranthus_retroflexus	Species	0.5776
+OTU164	+	Fungi	Domain	1	Ascomycota	Phylum	0.85	Sordariomycetes	Class	0.7225	Phomatosporales	Order	0.4407	Phomatosporaceae	Family	0.2688	Phomatospora	Genus	0.164	Phomatospora_biseriata	Species	0.0951
+OTU165	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9604	Sordariomycetes	Class	0.9412	Hypocreales	Order	0.9224	Bionectriaceae	Family	0.8947	Clonostachys	Genus	0.8589	Clonostachys_rosea	Species	0.4982
+OTU166	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Pyrus	Genus	0.46	Pyrus_ussuriensis	Species	0.115
+OTU167	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Ophiostomatales	Order	0.97	Ophiostomataceae	Family	0.9409	Ophiostoma	Genus	0.9127	Ophiostoma_pityokteinis	Species	0.5932
+OTU168	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Dothideomycetes	Class	0.9216	Mycosphaerellales	Order	0.811	Teratosphaeriaceae	Family	0.6731	Neocatenulostroma	Genus	0.4241	Neocatenulostroma_microsporum	Species	0.2502
+OTU169	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.98	Pleosporales	Order	0.9604	Massarinaceae	Family	0.922	Exosporium	Genus	0.8574	Exosporium_tiliae	Species	0.7974
+OTU17	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreaceae	Family	1	Trichoderma	Genus	0.99	Trichoderma_atroviride	Species	0.8613
+OTU170	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.8415															
+OTU171	+	Fungi	Domain	1																		
+OTU172	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Sordariomycetes	Class	0.8918	Hypocreales	Order	0.8115	Cordycipitaceae	Family	0.7385	Lecanicillium	Genus	0.4948	Lecanicillium_coprophilum	Species	0.3266
+OTU173	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	0.83	Cucurbitaceae	Family	0.6889	Cucumis	Genus	0.5718	Cucumis_melo	Species	0.3888
+OTU174	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Phlebia	Genus	1	Phlebia_rufa	Species	0.96
+OTU175	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1						
+OTU176	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Clavulinaceae	Family	1						
+OTU177	+	Fungi	Domain	0.97	Ascomycota	Phylum	0.9409	Sordariomycetes	Class	0.9127	Hypocreales	Order	0.8853									
+OTU178	+	Metazoa	Domain	0.47																		
+OTU179	+	Fungi	Domain	0.88																		
+OTU18	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Sporidiobolales	Order	1	Sporidiobolaceae	Family	1	Rhodotorula	Genus	1	Rhodotorula_mucilaginosa	Species	0.83
+OTU180	+	Viridiplantae	Domain	1																		
+OTU181	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Auriculariales	Order	0.99	Exidiaceae	Family	0.9009	Exidiopsis	Genus	0.5135	Exidiopsis_effusa	Species	0.2619
+OTU182	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Blumeria	Genus	1	Blumeria_graminis	Species	0.79
+OTU183	+	Viridiplantae	Domain	1																		
+OTU184	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Mycosphaerellales	Order	1	Mycosphaerellaceae	Family	1	Zasmidium	Genus	0.99	Zasmidium_syzygii	Species	0.891
+OTU185	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Ceratobasidiaceae	Family	1	Ceratobasidium	Genus	0.69			
+OTU186	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricomycetes_ord_Incertae_sedis	Order	1	Xenasmataceae	Family	1	Xenasmatella	Genus	1	Xenasmatella_vaga	Species	0.5
+OTU187	+	Fungi	Domain	0.98	Chytridiomycota	Phylum	0.9506	Rhizophydiomycetes	Class	0.7605	Rhizophydiales	Order	0.6084	Alphamycetaceae	Family	0.4867	Betamyces	Genus	0.3894			
+OTU188	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Mycoacia	Genus	1	Mycoacia_uda	Species	1
+OTU189	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Asparagales	Order	1	Amaryllidaceae	Family	1	Allium	Genus	1	Allium_sativum	Species	0.99
+OTU19	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Saccharomycetes	Class	0.9703	Saccharomycetales	Order	0.9606	Debaryomycetaceae	Family	0.951	Debaryomyces	Genus	0.9415	Debaryomyces_prosopidis	Species	0.8756
+OTU190	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Curvularia	Genus	0.99	Curvularia_pseudorobusta	Species	0.8217
+OTU191	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1												
+OTU192	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Poa	Genus	0.99	Poa_annua	Species	0.9702
+OTU193	+	Fungi	Domain	1	Basidiomycota	Phylum	0.97	Cystobasidiomycetes	Class	0.9409	Cystobasidiomycetes_ord_Incertae_sedis	Order	0.9033	Symmetrosporaceae	Family	0.8671	Symmetrospora	Genus	0.8324	Symmetrospora_foliicola	Species	0.6743
+OTU194	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1			
+OTU195	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	1	Cucurbitaceae	Family	1	Cucumis	Genus	0.99	Cucumis_sativus	Species	0.9702
+OTU196	+	unidentified	Domain	1																		
+OTU197	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.99	Eudicotyledonae	Class	0.9801	Fagales	Order	0.9703	Fagaceae	Family	0.9509	Quercus	Genus	0.9319	Quercus_scytophylla	Species	0.5591
+OTU198	+	Viridiplantae	Domain	1																		
+OTU199	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	0.5												
+OTU2	+	Fungi	Domain	1	Basidiomycota	Phylum	0.55	Malasseziomycetes	Class	0.3025	Malasseziales	Order	0.1664	Malasseziaceae	Family	0.0915	Malassezia	Genus	0.0503	Malassezia_restricta	Species	0.0277
+OTU20	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Phlebia	Genus	1	Phlebia_radiata	Species	0.95
+OTU200	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Phanerochaetaceae	Family	1	Phanerochaete	Genus	1	Phanerochaete_livescens	Species	0.81
+OTU201	+	Fungi	Domain	1																		
+OTU202	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9801	Agaricomycetes	Class	0.9703	Polyporales	Order	0.9412	Meruliaceae	Family	0.913	Scopuloides	Genus	0.8856	Scopuloides_hydnoides	Species	0.859
+OTU203	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Psathyrellaceae	Family	1	Hormographiella	Genus	0.76	Hormographiella_verticillata	Species	0.5776
+OTU204	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Amylocorticiales	Order	1	Amylocorticiaceae	Family	1	Amyloxenasma	Genus	1	Amyloxenasma_allantosporum	Species	1
+OTU205	+	Fungi	Domain	0.97	Ascomycota	Phylum	0.9409	Sordariomycetes	Class	0.9127	Hypocreales	Order	0.8853	Hypocreaceae	Family	0.8587	Trichoderma	Genus	0.833	Trichoderma_citrinoviride	Species	0.2666
+OTU206	+	Fungi	Domain	1																		
+OTU207	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Verrucariales	Order	0.9703	Verrucariaceae	Family	0.9218	Verrucaria	Genus	0.8573	Verrucaria_praetermissa	Species	0.3943
+OTU208	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	0.96	Pleurotaceae	Family	0.9216	Pleurotus	Genus	0.8847	Pleurotus_ostreatus	Species	0.7166
+OTU209	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Strophariaceae	Family	1	Agrocybe	Genus	0.92	Agrocybe_pediades	Species	0.5244
+OTU21	+	Fungi	Domain	1	Basidiomycota	Phylum	0.88	Cystobasidiomycetes	Class	0.7744	Erythrobasidiales	Order	0.6737	Erythrobasidiaceae	Family	0.5861	Erythrobasidium	Genus	0.5099	Erythrobasidium_hasegawae	Species	0.2754
+OTU210	+	Fungi	Domain	1	Ascomycota	Phylum	0.9	Leotiomycetes	Class	0.792	Helotiales	Order	0.697	Dermateaceae	Family	0.46	Pyrenopeziza	Genus	0.3036	Pyrenopeziza_petiolaris	Species	0.1943
+OTU211	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Schizoporaceae	Family	1	Schizopora	Genus	0.97	Schizopora_paradoxa	Species	0.9409
+OTU212	+	Fungi	Domain	1	Ascomycota	Phylum	1															
+OTU213	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.931	Dothideomycetes	Class	0.8286	Pleosporales	Order	0.7292	Phaeosphaeriaceae	Family	0.576	Phaeosphaeria	Genus	0.3571	Phaeosphaeria_fusispora	Species	0.2179
+OTU214	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Teloschistales	Order	0.99	Teloschistaceae	Family	0.9801	Xanthoria	Genus	0.7253	Xanthoria_parietina	Species	0.3481
+OTU215	+	Fungi	Domain	1	Basidiomycota	Phylum	0.86	Microbotryomycetes	Class	0.7396	Sporidiobolales	Order	0.6361	Sporidiobolaceae	Family	0.547	Rhodotorula	Genus	0.4704	Rhodotorula_glutinis	Species	0.2211
+OTU216	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Trichosporonales	Order	1	Trichosporonaceae	Family	1	Cutaneotrichosporon	Genus	1	Cutaneotrichosporon_dermatis	Species	0.73
+OTU217	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1						
+OTU218	+	unidentified	Domain	0.73																		
+OTU219	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Capnodiales	Order	0.99									
+OTU22	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Mrakiaceae	Family	1	Tausonia	Genus	1	Tausonia_pullulans	Species	1
+OTU220	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Phanerochaetaceae	Family	1	Phanerochaete	Genus	1	Phanerochaete_velutina	Species	0.89
+OTU221	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1									
+OTU222	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Moraceae	Family	1	Ficus	Genus	1	Ficus_carica	Species	0.71
+OTU223	+	Fungi	Domain	1	Basidiomycota	Phylum	1															
+OTU224	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Fomitopsidaceae	Family	1	Piptoporus	Genus	0.49	Piptoporus_betulinus	Species	0.2401
+OTU225	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Wallemiomycetes	Class	1	Wallemiales	Order	1	Wallemiaceae	Family	1	Wallemia	Genus	1	Wallemia_muriae	Species	0.74
+OTU226	+	Fungi	Domain	1																		
+OTU227	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Pleosporales	Order	0.9703	Didymosphaeriaceae	Family	0.883	Montagnula	Genus	0.777			
+OTU228	+	Fungi	Domain	1	Ascomycota	Phylum	0.89	Dothideomycetes	Class	0.7921	Pleosporales	Order	0.705	Phaeosphaeriaceae	Family	0.6204	Leptospora	Genus	0.5273			
+OTU229	+	Viridiplantae	Domain	0.98	Chlorophyta	Phylum	0.9604	Chlorophyceae	Class	0.9412	Sphaeropleales	Order	0.9224	Scenedesmaceae	Family	0.9039						
+OTU23	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Eurotiomycetes	Class	0.9703	Eurotiales	Order	0.9606	Aspergillaceae	Family	0.951	Aspergillus	Genus	0.9415	Aspergillus_sydowii	Species	0.7344
+OTU230	+	unidentified	Domain	0.21																		
+OTU231	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Geraniales	Order	1	Geraniaceae	Family	1	Erodium	Genus	1	Erodium_sebaceum	Species	0.71
+OTU232	+	Fungi	Domain	1	Ascomycota	Phylum	0.79	Dothideomycetes	Class	0.6241	Pleosporales	Order	0.493	Phaeosphaeriaceae	Family	0.3895	Leptospora	Genus	0.3038	Leptospora_rubella	Species	0.2187
+OTU233	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleraceae	Family	0.7	Fonsecazyma	Genus	0.49			
+OTU234	+	Fungi	Domain	1	Ascomycota	Phylum	1	Pezizomycetes	Class	1	Pezizales	Order	1	Pyronemataceae	Family	1						
+OTU235	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.99	Gloniales	Order	0.9801	Gloniaceae	Family	0.9703	Cenococcum	Genus	0.8539			
+OTU236	+	Fungi	Domain	0.91	Ascomycota	Phylum	0.8281	Eurotiomycetes	Class	0.7536	Eurotiales	Order	0.6857	Aspergillaceae	Family	0.6172	Penicillium	Genus	0.5555			
+OTU237	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Penicillium	Genus	0.98	Penicillium_paxilli	Species	0.8526
+OTU238	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Aspergillus	Genus	1	Aspergillus_flocculosus	Species	0.69
+OTU239	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Schizoporaceae	Family	1	Hyphodontia	Genus	1	Hyphodontia_pallidula	Species	1
+OTU24	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Clavicipitaceae	Family	1	Metarhizium	Genus	1	Metarhizium_anisopliae	Species	0.86
+OTU240	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	0.94	Exophiala	Genus	0.8084	Exophiala_xenobiotica	Species	0.6467
+OTU241	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Corticiales	Order	1	Vuilleminiaceae	Family	1	Vuilleminia	Genus	1	Vuilleminia_coryli	Species	0.68
+OTU242	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801												
+OTU243	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Podosphaera	Genus	1	Podosphaera_xanthii	Species	0.82
+OTU244	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.99	Pleosporales	Order	0.9801									
+OTU245	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Penicillium	Genus	0.51	Penicillium_sclerotiorum	Species	0.255
+OTU246	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1	Erigeron	Genus	0.99	Erigeron_annuus	Species	0.594
+OTU247	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Psathyrellaceae	Family	1	Coprinellus	Genus	1	Coprinellus_disseminatus	Species	1
+OTU248	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Cystofilobasidiaceae	Family	1	Cystofilobasidium	Genus	1	Cystofilobasidium_macerans	Species	1
+OTU249	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Polyporaceae	Family	1	Daedaleopsis	Genus	1	Daedaleopsis_confragosa	Species	0.97
+OTU25	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9606	Aspergillus	Genus	0.951	Aspergillus_hiratsukae	Species	0.2473
+OTU250	+	unidentified	Domain	0.34																		
+OTU251	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Leucosporidiales	Order	1	Leucosporidiaceae	Family	1	Leucosporidium	Genus	1	Leucosporidium_intermedium	Species	0.99
+OTU252	+	Fungi	Domain	1																		
+OTU253	+	Fungi	Domain	1																		
+OTU254	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Sporidiobolales	Order	1	Sporidiobolaceae	Family	1	Rhodosporidiobolus	Genus	0.95	Rhodosporidiobolus_colostri	Species	0.494
+OTU255	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Solanales	Order	1	Solanaceae	Family	1	Capsicum	Genus	0.98	Capsicum_annuum	Species	0.8036
+OTU256	+	Fungi	Domain	0.82	Ascomycota	Phylum	0.6724	Dothideomycetes	Class	0.5514	Pleosporales	Order	0.4521	Nigrogranaceae	Family	0.3391	Nigrograna	Genus	0.2543	Nigrograna_norvegica	Species	0.1857
+OTU257	+	Fungi	Domain	1	Chytridiomycota	Phylum	1	Spizellomycetes	Class	1	Spizellomycetales	Order	1	Spizellomycetaceae	Family	1	Spizellomyces	Genus	1	Spizellomyces_acuminatus	Species	0.95
+OTU258	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariales	Order	1	Chaetomiaceae	Family	0.51	Chaetomium	Genus	0.2601	Chaetomium_pachypodioides	Species	0.1327
+OTU259	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Cystofilobasidiaceae	Family	1	Cystofilobasidium	Genus	1	Cystofilobasidium_capitatum	Species	0.92
+OTU26	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Solanales	Order	1	Solanaceae	Family	1						
+OTU260	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Chlorophyceae	Class	1	Sphaeropleales	Order	1	Scenedesmaceae	Family	1	Desmodesmus	Genus	1			
+OTU261	+	Fungi	Domain	1	Mucoromycota	Phylum	1	Mucoromycetes	Class	1	Mucorales	Order	1	Mucoraceae	Family	1	Mucor	Genus	0.99	Mucor_flavus	Species	0.9801
+OTU262	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Saccharomycodaceae	Family	1	Hanseniaspora	Genus	1	Hanseniaspora_osmophila	Species	0.95
+OTU263	+	Fungi	Domain	1	Chytridiomycota	Phylum	1	Spizellomycetes	Class	1	Spizellomycetales	Order	1									
+OTU264	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.99	Pleosporales	Order	0.9801	Phaeosphaeriaceae	Family	0.9115	Parastagonospora	Genus	0.7565	Parastagonospora_nodorum	Species	0.2648
+OTU265	+	Fungi	Domain	1	Ascomycota	Phylum	0.62	Eurotiomycetes	Class	0.3844	Eurotiales	Order	0.2383	Aspergillaceae	Family	0.1454	Aspergillus	Genus	0.0872	Aspergillus_tardicrescens	Species	0.041
+OTU266	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	1	Trebouxiaceae	Family	1	Myrmecia	Genus	1			
+OTU267	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Malvales	Order	1	Cistaceae	Family	1	Lechea	Genus	1	Lechea_intermedia	Species	1
+OTU268	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Stachybotryaceae	Family	0.92	Albifimbria	Genus	0.4416	Albifimbria_verrucaria	Species	0.212
+OTU269	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Triticum	Genus	0.88	Triticum_aestivum	Species	0.7744
+OTU27	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9606	Aspergillus	Genus	0.6148	Aspergillus_penicillioides	Species	0.3627
+OTU270	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Clavicipitaceae	Family	0.99	Epichloe	Genus	0.8811	Epichloe_clarkii	Species	0.3613
+OTU271	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	1	Exophiala_moniliae	Species	0.9
+OTU272	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Lamiaceae	Family	1	Prunella	Genus	1	Prunella_vulgaris	Species	1
+OTU273	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9702	Chaetothyriales	Order	0.9508									
+OTU274	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	1			
+OTU275	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	0.94	Sporocadaceae	Family	0.8272	Seimatosporium	Genus	0.6121	Seimatosporium_vitis	Species	0.2081
+OTU276	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Saccharomycetales_fam_Incertae_sedis	Family	1	Candida	Genus	1	Candida_tropicalis	Species	1
+OTU277	+	Fungi	Domain	0.91	Ascomycota	Phylum	0.819	Dothideomycetes	Class	0.7289	Pleosporales	Order	0.6487									
+OTU278	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Pezizomycetes	Class	0.9703	Pezizales	Order	0.9606	Sarcosomataceae	Family	0.951	Plectania	Genus	0.9415	Plectania_melastoma	Species	0.7249
+OTU279	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9603	Eurotiales	Order	0.9219	Aspergillaceae	Family	0.8113	Aspergillus	Genus	0.6003	Aspergillus_kalimae	Species	0.2641
+OTU28	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Sordariomycetes	Class	0.8265	Sordariales	Order	0.405	Cephalothecaceae	Family	0.1944	Cryptendoxyla	Genus	0.0914			
+OTU280	+	unidentified	Domain	0.78																		
+OTU281	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1												
+OTU282	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Glomerellales	Order	1	Plectosphaerellaceae	Family	1	Lectera	Genus	1	Lectera_nordwiniana	Species	0.83
+OTU283	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1									
+OTU284	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Cordycipitaceae	Family	1						
+OTU285	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1	Bidens	Genus	1	Bidens_socorrensis	Species	0.55
+OTU286	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Eurotiomycetes	Class	0.9216	Eurotiales	Order	0.8847	Trichocomaceae	Family	0.5751						
+OTU287	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Acarosporales	Order	1	Acarosporaceae	Family	1	Sarcogyne	Genus	1	Sarcogyne_bernardinensis	Species	1
+OTU288	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Schizoporaceae	Family	1	Xylodon	Genus	1	Xylodon_flaviporus	Species	1
+OTU289	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9504	Sordariomycetes	Class	0.8839	Diaporthales	Order	0.822	Diaporthaceae	Family	0.7645	Diaporthe	Genus	0.6192			
+OTU29	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Leotiomycetes	Class	0.9801	Phacidiales	Order	0.8919	Phacidiaceae	Family	0.8116	Phacidiopycnis	Genus	0.3165	Phacidiopycnis_washingtonensis	Species	0.1234
+OTU290	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Gloniales	Order	1	Gloniaceae	Family	1	Cenococcum	Genus	1	Cenococcum_geophilum	Species	0.99
+OTU291	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Pleurastrophyceae	Class	1	Pleurastrales	Order	1	Pleurastraceae	Family	1	Pleurastrum	Genus	1			
+OTU292	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreales_fam_Incertae_sedis	Family	1	Acremonium	Genus	1			
+OTU293	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	0.99	Centaurea	Genus	0.693	Centaurea_benedicta	Species	0.1663
+OTU294	+	Fungi	Domain	0.96	Basidiomycota	Phylum	0.912	Agaricomycetes	Class	0.8573	Cantharellales	Order	0.8058	Ceratobasidiaceae	Family	0.7575	Ceratobasidium	Genus	0.2424			
+OTU295	+	Fungi	Domain	1	Ascomycota	Phylum	0.75	Saccharomycetes	Class	0.5625	Saccharomycetales	Order	0.4219	Debaryomycetaceae	Family	0.2067						
+OTU296	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Mycosphaerellales	Order	0.9703	Mycosphaerellaceae	Family	0.9606						
+OTU297	+	unidentified	Domain	0.54																		
+OTU298	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1												
+OTU299	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1	Malassezia_globosa	Species	0.81
+OTU3	+	Fungi	Domain	1	Ascomycota	Phylum	0.7	Sordariomycetes	Class	0.49	Coniochaetales	Order	0.3136									
+OTU30	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Valsaceae	Family	1	Cytospora	Genus	1	Cytospora_prunicola	Species	0.7
+OTU300	+	Fungi	Domain	1	Ascomycota	Phylum	0.82	Eurotiomycetes	Class	0.6724	Eurotiales	Order	0.5514	Aspergillaceae	Family	0.4466	Aspergillus	Genus	0.3394	Aspergillus_tardicrescens	Species	0.1052
+OTU301	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1									
+OTU302	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	0.83	Cystobasidiomycetes_ord_Incertae_sedis	Order	0.6889	Symmetrosporaceae	Family	0.5718	Symmetrospora	Genus	0.4746	Symmetrospora_coprosmae	Species	0.3939
+OTU303	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1						
+OTU304	+	Fungi	Domain	1	Ascomycota	Phylum	0.86	Dothideomycetes	Class	0.5848	Capnodiales	Order	0.3977	Neodevriesiaceae	Family	0.2704	Tripospermum	Genus	0.1839	Tripospermum_infalcatum	Species	0.125
+OTU305	+	Fungi	Domain	1	Ascomycota	Phylum	0.94	Sordariomycetes	Class	0.8836	Hypocreales	Order	0.7776	Nectriaceae	Family	0.6843						
+OTU306	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Malvales	Order	1	Malvaceae	Family	1	Hibiscus	Genus	1	Hibiscus_clayi	Species	1
+OTU307	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	0.99	Rosales	Order	0.9702	Rosaceae	Family	0.9508	Prunus	Genus	0.7987	Prunus_mahaleb	Species	0.3834
+OTU308	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Wallemiomycetes	Class	1	Wallemiales	Order	1	Wallemiaceae	Family	1	Wallemia	Genus	1	Wallemia_muriae	Species	0.85
+OTU309	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Chlorophyceae	Class	1	Chlamydomonadales	Order	1	Coccomyxaceae	Family	1	Coccomyxa	Genus	1	Coccomyxa_viridis	Species	0.84
+OTU31	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Potentilla	Genus	1	Potentilla_reptans	Species	0.81
+OTU310	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Exserohilum	Genus	0.96	Exserohilum_turcicum	Species	0.816
+OTU311	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9604	Leotiomycetes	Class	0.9412	Helotiales	Order	0.9035									
+OTU312	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.6076	Dothideomycetes	Class	0.3524	Dothideales	Order	0.2044									
+OTU313	+	Fungi	Domain	0.94	Ascomycota	Phylum	0.752	Eurotiomycetes	Class	0.6016	Eurotiales	Order	0.4813	Aspergillaceae	Family	0.385	Penicillium	Genus	0.308	Penicillium_oxalicum	Species	0.154
+OTU314	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Lycoperdaceae	Family	1	Bovista	Genus	1	Bovista_promontorii	Species	0.94
+OTU315	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9009	Eurotiomycetes	Class	0.8198	Eurotiales	Order	0.746	Aspergillaceae	Family	0.664	Penicillium	Genus	0.5777	Penicillium_corylophilum	Species	0.2426
+OTU316	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Auriculariales	Order	0.98	Exidiaceae	Family	0.9604	Exidia	Genus	0.9412	Exidia_glandulosa	Species	0.9224
+OTU317	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1	Diatrypaceae	Family	1	Diatrype	Genus	0.63	Diatrype_stigma	Species	0.2331
+OTU318	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Leotiomycetes	Class	0.9024	Helotiales	Order	0.8483	Hyaloscyphaceae	Family	0.7295	Brunnipila	Genus	0.3356	Brunnipila_clandestina	Species	0.0906
+OTU319	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9207	Leotiomycetes	Class	0.6537	Helotiales	Order	0.4641	Dermateaceae	Family	0.1253	Calloria	Genus	0.0326			
+OTU32	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Gentianales	Order	1	Apocynaceae	Family	1	Nerium	Genus	1	Nerium_oleander	Species	1
+OTU320	+	Fungi	Domain	1	Ascomycota	Phylum	0.92	Dothideomycetes	Class	0.8464	Mycosphaerellales	Order	0.7448	Teratosphaeriaceae	Family	0.6331	Hortaea	Genus	0.3039	Hortaea_werneckii	Species	0.1459
+OTU321	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Coniochaetales	Order	0.9507	Coniochaetaceae	Family	0.9222	Coniochaeta	Genus	0.8761	Coniochaeta_boothii	Species	0.4205
+OTU322	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Auriculariales	Order	1	Exidiaceae	Family	1	Eichleriella	Genus	0.98	Eichleriella_xinpingensis	Species	0.8526
+OTU323	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	0.98	Malvales	Order	0.6958	Malvaceae	Family	0.494	Hibiscus	Genus	0.2618	Hibiscus_clayi	Species	0.1126
+OTU324	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1									
+OTU325	+	unidentified	Domain	0.98																		
+OTU326	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariomycetes_ord_Incertae_sedis	Order	1	Sordariomycetes_fam_Incertae_sedis	Family	1	Plagiosphaera	Genus	1	Plagiosphaera_immersa	Species	1
+OTU327	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Cryptococcaceae	Family	1	Cryptococcus	Genus	1	Cryptococcus_longus	Species	1
+OTU328	+	unidentified	Domain	0.57																		
+OTU329	+	Fungi	Domain	0.94	Ascomycota	Phylum	0.6392	Lecanoromycetes	Class	0.3324	Gyalectales	Order	0.0864	Phlyctidaceae	Family	0.0225	Phlyctis	Genus	0.0058	Phlyctis_speirea	Species	0.0015
+OTU33	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Zingiberales	Order	1	Musaceae	Family	1	Musa	Genus	1	Musa_indandamanensis	Species	0.86
+OTU330	+	Fungi	Domain	1																		
+OTU331	+	Fungi	Domain	0.95	Ascomycota	Phylum	0.9025	Dothideomycetes	Class	0.8574	Pleosporales	Order	0.8145	Didymellaceae	Family	0.7575	Neoascochyta	Genus	0.7045	Neoascochyta_graminicola	Species	0.6129
+OTU332	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	1	Cucurbitaceae	Family	1						
+OTU333	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9606	Aspergillus	Genus	0.9222	Aspergillus_frequens	Species	0.4703
+OTU334	+	Fungi	Domain	0.71	Ascomycota	Phylum	0.5041	Eurotiomycetes	Class	0.3529	Chaetothyriales	Order	0.247	Trichomeriaceae	Family	0.1581	Trichomerium	Genus	0.1012	Trichomerium_dioscoreae	Species	0.0567
+OTU335	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	0.97	Glomerellales	Order	0.9409	Glomerellaceae	Family	0.9127	Colletotrichum	Genus	0.8853			
+OTU336	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Hymenochaetaceae	Family	1	Hymenochaete	Genus	1	Hymenochaete_rubiginosa	Species	1
+OTU337	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Pichiaceae	Family	0.99	Pichia	Genus	0.9801	Pichia_kudriavzevii	Species	0.9605
+OTU338	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Ganodermataceae	Family	0.99	Ganoderma	Genus	0.9801	Ganoderma_lobatum	Species	0.6469
+OTU339	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Dothideomycetes	Class	0.9604	Mycosphaerellales	Order	0.9412	Mycosphaerellaceae	Family	0.9224	Sphaerulina	Genus	0.784	Sphaerulina_salicicola	Species	0.4547
+OTU34	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Lamiaceae	Family	0.98	Origanum	Genus	0.931	Origanum_vulgare	Species	0.54
+OTU340	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9405	Eurotiomycetes	Class	0.8935	Eurotiales	Order	0.8488	Aspergillaceae	Family	0.7979	Penicillium	Genus	0.7261			
+OTU341	+	Fungi	Domain	1																		
+OTU342	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Ulvophyceae	Class	1	Ulotrichales	Order	1	Helicodictyaceae	Family	0.96	Rhexinema	Genus	0.9216	Rhexinema_sancta-tomeum	Species	0.7926
+OTU343	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.92	Capnodiales	Order	0.8464	Cladosporiaceae	Family	0.7787	Neocladosporium	Genus	0.7086	Neocladosporium_syringae	Species	0.4464
+OTU344	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	1	Trebouxiaceae	Family	1	Trebouxia	Genus	1			
+OTU345	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Dothideomycetes	Class	0.9604	Mycosphaerellales	Order	0.9412	Mycosphaerellaceae	Family	0.9224	Zymoseptoria	Genus	0.8117	Zymoseptoria_crescenta	Species	0.6331
+OTU346	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9606	Aspergillus	Genus	0.951	Aspergillus_occultus	Species	0.7608
+OTU347	+	Fungi	Domain	1																		
+OTU348	+	Metazoa	Domain	0.99	Arthropoda	Phylum	0.9801	Collembola	Class	0.9703	Collembola_ord_Incertae_sedis	Order	0.9606	Bourletiellidae	Family	0.7204	Bourletiella	Genus	0.5403			
+OTU349	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Eurotiomycetes	Class	0.9409	Eurotiales	Order	0.9127	Aspergillaceae	Family	0.8853	Penicillium	Genus	0.8322			
+OTU35	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Dothideales	Order	0.9703	Saccotheciaceae	Family	0.9606	Aureobasidium	Genus	0.951	Aureobasidium_pullulans	Species	0.504
+OTU350	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Mrakiaceae	Family	1	Itersonilia	Genus	1	Itersonilia_pannonica	Species	1
+OTU351	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Curvularia	Genus	1	Curvularia_inaequalis	Species	0.96
+OTU352	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	0.93	Agaricales	Order	0.8556									
+OTU353	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Dothideomycetes_ord_Incertae_sedis	Order	1	Eremomycetaceae	Family	1	Arthrographis	Genus	1	Arthrographis_kalrae	Species	0.95
+OTU354	+	Fungi	Domain	0.97	Chytridiomycota	Phylum	0.9409	Rhizophlyctidomycetes	Class	0.9127	Rhizophlyctidales	Order	0.8853	Rhizophlyctidaceae	Family	0.8587	Rhizophlyctis	Genus	0.833			
+OTU355	+	Viridiplantae	Domain	0.9	Anthophyta	Phylum	0.81	Monocotyledonae	Class	0.729	Poales	Order	0.6561	Poaceae	Family	0.5905	Calamagrostis	Genus	0.4547			
+OTU356	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Chlorellales	Order	1	Chlorellaceae	Family	1	Apatococcus	Genus	1			
+OTU357	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Eurotiomycetes	Class	0.9703	Eurotiales	Order	0.9606	Aspergillaceae	Family	0.951	Talaromyces	Genus	0.932	Talaromyces_domesticus	Species	0.3448
+OTU358	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleraceae	Family	0.99	Bullera	Genus	0.9801	Bullera_alba	Species	0.9703
+OTU359	+	Alveolata	Domain	1	Ciliophora	Phylum	1	Oligohymenophorea	Class	1	Peniculida	Order	1	Parameciidae	Family	1	Paramecium	Genus	1			
+OTU36	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.9	Eudicotyledonae	Class	0.81	Brassicales	Order	0.729	Brassicaceae	Family	0.6561	Brassica	Genus	0.479	Brassica_napus	Species	0.3209
+OTU360	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Magnaporthales	Order	1	Magnaporthaceae	Family	1	Arxiella	Genus	1	Arxiella_terrestris	Species	1
+OTU361	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Polyporaceae	Family	1	Trametes	Genus	0.98	Trametes_trogii	Species	0.9604
+OTU362	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	0.99	Stereaceae	Family	0.9801	Stereum	Genus	0.9605	Stereum_hirsutum	Species	0.5091
+OTU363	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Boletales	Order	1	Serpulaceae	Family	1	Serpula	Genus	1	Serpula_lacrymans	Species	1
+OTU364	+	Fungi	Domain	1	Basidiomycota	Phylum	0.92	Agaricomycetes	Class	0.8464	Russulales	Order	0.7618	Peniophoraceae	Family	0.6856	Peniophora	Genus	0.4936	Peniophora_lycii	Species	0.1382
+OTU365	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Strophariaceae	Family	1	Deconica	Genus	0.98			
+OTU366	+	unidentified	Domain	0.75																		
+OTU367	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Trichocomaceae	Family	1	Thermomyces	Genus	1	Thermomyces_ibadanensis	Species	0.99
+OTU368	+	unidentified	Domain	0.88																		
+OTU369	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9306	Dothideomycetes	Class	0.8003	Pleosporales	Order	0.6803									
+OTU37	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Rhynchogastremataceae	Family	1	Papiliotrema	Genus	1	Papiliotrema_aspenensis	Species	0.99
+OTU370	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Saccharomycetales_fam_Incertae_sedis	Family	1	Candida	Genus	1	Candida_albicans	Species	1
+OTU371	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreales_fam_Incertae_sedis	Family	1	Acremonium	Genus	1	Acremonium_fusidioides	Species	0.66
+OTU372	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1	Stylosanthes	Genus	1	Stylosanthes_hamata	Species	0.52
+OTU373	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	0.92	Melanconiellaceae	Family	0.7728	Microascospora	Genus	0.6414			
+OTU374	+	Fungi	Domain	0.96	Basidiomycota	Phylum	0.9216	Ustilaginomycetes	Class	0.8847	Urocystidales	Order	0.8493	Urocystidaceae	Family	0.8154	Urocystis	Genus	0.7338	Urocystis_colchici	Species	0.4109
+OTU375	+	Fungi	Domain	1	Ascomycota	Phylum	0.69	Sordariomycetes	Class	0.4761												
+OTU376	+	Fungi	Domain	1	Basidiomycota	Phylum	0.98	Agaricomycetes	Class	0.9604	Agaricales	Order	0.9412	Psathyrellaceae	Family	0.8188	Coprinopsis	Genus	0.7124			
+OTU377	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1									
+OTU378	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Pleurotheciales	Order	1	Pleurotheciaceae	Family	1	Phaeoisaria	Genus	1	Phaeoisaria_sparsa	Species	0.82
+OTU379	+	Metazoa	Domain	0.88	Arthropoda	Phylum	0.7744	Collembola	Class	0.6815	Collembola_ord_Incertae_sedis	Order	0.5997	Isotomidae	Family	0.4738	Isotoma	Genus	0.3743			
+OTU38	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9604	Sordariomycetes	Class	0.9412	Microascales	Order	0.9224	Ceratocystidaceae	Family	0.7471	Berkeleyomyces	Genus	0.5828	Berkeleyomyces_rouxiae	Species	0.4545
+OTU380	+	Fungi	Domain	1																		
+OTU381	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Proteales	Order	1	Platanaceae	Family	1	Platanus	Genus	1	Platanus_orientalis	Species	0.98
+OTU382	+	Viridiplantae	Domain	0.99	Anthophyta	Phylum	0.9801	Eudicotyledonae	Class	0.9703	Solanales	Order	0.9606	Solanaceae	Family	0.951	Solanum	Genus	0.7323	Solanum_clarum	Species	0.1684
+OTU383	+	Fungi	Domain	1	Basidiomycota	Phylum	0.57	Agaricomycetes	Class	0.285	Agaricales	Order	0.114	Inocybaceae	Family	0.0068	Inocybe	Genus	0.0004			
+OTU384	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1															
+OTU385	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Togniniales	Order	1	Togniniaceae	Family	1	Phaeoacremonium	Genus	1	Phaeoacremonium_angustius	Species	0.54
+OTU386	+	Viridiplantae	Domain	1	Bryophyta	Phylum	1	Bryopsida	Class	1	Dicranales	Order	0.99	Ditrichaceae	Family	0.9801	Ceratodon	Genus	0.9703			
+OTU387	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1												
+OTU388	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Solanales	Order	0.99	Solanaceae	Family	0.9801	Salpichroa	Genus	0.1078	Salpichroa_diffusa	Species	0.0108
+OTU389	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1	Pithecellobium	Genus	0.98	Pithecellobium_dulce	Species	0.8526
+OTU39	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Crepidotaceae	Family	0.95	Crepidotus	Genus	0.9025	Crepidotus_epibryus	Species	0.8393
+OTU390	+	Fungi	Domain	1	Ascomycota	Phylum	1	Taphrinomycetes	Class	1	Taphrinales	Order	1	Protomycetaceae	Family	1	Protomyces	Genus	1	Protomyces_inouyei	Species	1
+OTU391	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	1	Lachnocladiaceae	Family	1	Gloiothele	Genus	1	Gloiothele_lactescens	Species	0.9
+OTU392	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Agaricomycetes	Class	0.9801	Polyporales	Order	0.9703	Steccherinaceae	Family	0.9218	Ceriporiopsis	Genus	0.8757	Ceriporiopsis_gilvescens	Species	0.8319
+OTU393	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Sporidiobolales	Order	1	Sporidiobolaceae	Family	1	Rhodosporidiobolus	Genus	1	Rhodosporidiobolus_oreadorum	Species	0.97
+OTU394	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	0.96	Lecanorales	Order	0.8928	Lecanoraceae	Family	0.5357	Lecanora	Genus	0.1928			
+OTU395	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Sapindales	Order	1	Anacardiaceae	Family	1	Pistacia	Genus	1	Pistacia_atlantica	Species	0.81
+OTU396	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Pyrus	Genus	0.9	Pyrus_cordata	Species	0.459
+OTU397	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1			
+OTU398	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	0.99	Rosaceae	Family	0.9801	Fragaria	Genus	0.8919			
+OTU399	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Ophiostomatales	Order	0.96	Ophiostomataceae	Family	0.9216	Ophiostoma	Genus	0.8847	Ophiostoma_sparsiannulatum	Species	0.4689
+OTU4	+	Fungi	Domain	1	Ascomycota	Phylum	0.75	Dothideomycetes	Class	0.555	Capnodiales	Order	0.4051	Cladosporiaceae	Family	0.2958	Cladosporium	Genus	0.2129	Cladosporium_cladosporioides	Species	0.0724
+OTU40	+	Fungi	Domain	0.94	Ascomycota	Phylum	0.8836	Sordariomycetes	Class	0.8306	Hypocreales	Order	0.7807									
+OTU400	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9801	Ustilaginomycetes	Class	0.9703	Ustilaginales	Order	0.9606	Ustilaginaceae	Family	0.951	Moesziomyces	Genus	0.9415	Moesziomyces_aphidis	Species	0.9227
+OTU401	+	unidentified	Domain	0.7																		
+OTU402	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Melanosporales	Order	1	Melanosporaceae	Family	1	Melanospora	Genus	1	Melanospora_damnosa	Species	1
+OTU403	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Didymellaceae	Family	1	Neoascochyta	Genus	1	Neoascochyta_exitialis	Species	1
+OTU404	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Agaricaceae	Family	1	Agaricus	Genus	1	Agaricus_alboumbonatus	Species	0.28
+OTU405	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Gentianales	Order	1	Rubiaceae	Family	1						
+OTU406	+	Viridiplantae	Domain	0.87	Chlorophyta	Phylum	0.7221	Trebouxiophyceae	Class	0.5705	Chlorellales	Order	0.3651	Chlorellaceae	Family	0.2191	Marasphaerium	Genus	0.1249			
+OTU407	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Laurales	Order	0.95	Lauraceae	Family	0.9025	Persea	Genus	0.6137	Persea_americana	Species	0.3375
+OTU408	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Pyrus	Genus	0.57	Pyrus_ussuriensis	Species	0.2622
+OTU409	+	unidentified	Domain	1																		
+OTU41	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.54	Aegilops_bicornis	Species	0.2052
+OTU410	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreales_fam_Incertae_sedis	Family	1	Acremonium	Genus	1	Acremonium_hyalinulum	Species	0.88
+OTU411	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Malus	Genus	0.92	Malus_toringoides	Species	0.3956
+OTU412	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiomycetes_ord_Incertae_sedis	Order	1	Symmetrosporaceae	Family	1	Symmetrospora	Genus	1	Symmetrospora_coprosmae	Species	0.7
+OTU413	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1												
+OTU414	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Magnaporthales	Order	0.97	Magnaporthaceae	Family	0.9409	Aquafiliformis	Genus	0.9127	Aquafiliformis_lignicola	Species	0.8853
+OTU415	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Steccherinaceae	Family	1	Cabalodontia	Genus	1	Cabalodontia_subcretacea	Species	0.96
+OTU416	+	Fungi	Domain	1	Chytridiomycota	Phylum	1	Spizellomycetes	Class	0.99	Spizellomycetales	Order	0.9801	Powellomycetaceae	Family	0.9703	Powellomyces	Genus	0.9606	Powellomyces_hirtus	Species	0.951
+OTU417	+	Viridiplantae	Domain	0.64	Anthophyta	Phylum	0.4096	Eudicotyledonae	Class	0.2621	Fabales	Order	0.1678	Fabaceae	Family	0.1074	Trifolium	Genus	0.0676	Trifolium_pratense	Species	0.0392
+OTU418	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Fomitopsidaceae	Family	1	Postia	Genus	1	Postia_stiptica	Species	1
+OTU419	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Debaryomycetaceae	Family	0.97	Kurtzmaniella	Genus	0.9409			
+OTU42	+	unidentified	Domain	0.81																		
+OTU420	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Xylariales	Order	0.9703	Xylariales_fam_Incertae_sedis	Family	0.9606	Hansfordia	Genus	0.951	Hansfordia_pruni	Species	0.9415
+OTU421	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Nigrogranaceae	Family	0.91	Nigrograna	Genus	0.8281	Nigrograna_obliqua	Species	0.4306
+OTU422	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Fomitopsidaceae	Family	1	Phaeolus	Genus	1	Phaeolus_schweinitzii	Species	1
+OTU423	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricostilbomycetes	Class	1	Agaricostilbales	Order	1	Kondoaceae	Family	1	Kondoa	Genus	1	Kondoa_gutianensis	Species	1
+OTU424	+	Fungi	Domain	0.55	Basidiomycota	Phylum	0.3025	Agaricomycetes	Class	0.1664	Polyporales	Order	0.0915	Ganodermataceae	Family	0.0503	Ganoderma	Genus	0.0277	Ganoderma_applanatum	Species	0.0147
+OTU425	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	0.99	Valsaceae	Family	0.9801	Cytospora	Genus	0.6371	Cytospora_populina	Species	0.4141
+OTU426	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Botryosphaeriales	Order	0.9605	Botryosphaeriaceae	Family	0.9413	Botryosphaeria	Genus	0.9225			
+OTU427	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Neopyrenochaetaceae	Family	0.99	Neopyrenochaeta	Genus	0.9801	Neopyrenochaeta_annellidica	Species	0.5587
+OTU428	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	0.98	Lecanorales	Order	0.9506	Lecanoraceae	Family	0.8936	Myriolecis	Genus	0.3217			
+OTU429	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Tubeufiales	Order	1	Tubeufiaceae	Family	1	Xenosporium	Genus	0.99			
+OTU43	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1			
+OTU430	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Atheliales	Order	1									
+OTU431	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	0.95	Agaricales	Order	0.893	Pleurotaceae	Family	0.8394	Pleurotus	Genus	0.7891	Pleurotus_pulmonarius	Species	0.4419
+OTU432	+	Fungi	Domain	1																		
+OTU433	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	0.98	Helotiales	Order	0.9604	Ploettnerulaceae	Family	0.4994	Cadophora	Genus	0.2597	Cadophora_malorum	Species	0.1221
+OTU434	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Dothideomycetes	Class	0.9507	Pleosporales	Order	0.8937	Didymosphaeriaceae	Family	0.7328	Paraphaeosphaeria	Genus	0.5423	Paraphaeosphaeria_michotii	Species	0.1735
+OTU435	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Talaromyces	Genus	1	Talaromyces_rugulosus	Species	1
+OTU436	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	0.78	Fabales	Order	0.6084	Fabaceae	Family	0.4746	Lotus	Genus	0.3654	Lotus_alpinus	Species	0.2741
+OTU437	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Tremellomycetes	Class	0.9801	Filobasidiales	Order	0.9703	Piskurozymaceae	Family	0.9606	Piskurozyma	Genus	0.951	Piskurozyma_capsuligena	Species	0.9415
+OTU438	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Microascales	Order	1	Microascaceae	Family	1	Kernia	Genus	1	Kernia_nitida	Species	0.74
+OTU439	+	Fungi	Domain	0.89	Ascomycota	Phylum	0.7832	Leotiomycetes	Class	0.6266	Helotiales	Order	0.5012	Helotiaceae	Family	0.3609						
+OTU44	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	0.98	Diatrypaceae	Family	0.9604	Eutypa	Genus	0.7011	Eutypa_lata	Species	0.4277
+OTU440	+	Viridiplantae	Domain	1																		
+OTU441	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Sordariomycetes	Class	0.9025	Sordariales	Order	0.8574	Sordariaceae	Family	0.8059	Diplogelasinospora	Genus	0.7576			
+OTU442	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariomycetes_ord_Incertae_sedis	Order	0.87	Thyridiaceae	Family	0.7569	Thyridium	Genus	0.6585	Thyridium_curvatum	Species	0.4939
+OTU443	+	Viridiplantae	Domain	0.76	Anthophyta	Phylum	0.57	Monocotyledonae	Class	0.3306	Alismatales	Order	0.1289	Araceae	Family	0.0477	Amorphophallus	Genus	0.0052	Amorphophallus_pendulus	Species	0.0004
+OTU444	-	unidentified	Domain	1																		
+OTU445	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1						
+OTU446	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Sordariomycetes	Class	0.9604	Xylariales	Order	0.9412	Xylariaceae	Family	0.9224	Anthostomella	Genus	0.8855			
+OTU447	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1	Diatrypaceae	Family	1	Eutypa	Genus	0.98			
+OTU448	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Irpicaceae	Family	1	Irpex	Genus	0.98	Irpex_lacteus	Species	0.9114
+OTU449	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Diaporthales	Order	0.9703	Gnomoniaceae	Family	0.9218						
+OTU45	+	Fungi	Domain	1	Basidiomycota	Phylum	0.98	Agaricomycetes	Class	0.9604	Hymenochaetales	Order	0.9412	Rickenellaceae	Family	0.9224	Resinicium	Genus	0.9039	Resinicium_bicolor	Species	0.5695
+OTU450	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Sordariomycetes	Class	0.9703	Diaporthales	Order	0.9509	Diaporthaceae	Family	0.9319	Diaporthe	Genus	0.8107	Diaporthe_arctii	Species	0.1378
+OTU451	+	Fungi	Domain	1	Ascomycota	Phylum	1															
+OTU452	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Melanconidaceae	Family	1	Melanconiella	Genus	1	Melanconiella_hyperopta	Species	1
+OTU453	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1												
+OTU454	+	Alveolata	Domain	1	Ciliophora	Phylum	1															
+OTU455	+	Fungi	Domain	1	Ascomycota	Phylum	1															
+OTU456	+	Fungi	Domain	0.97																		
+OTU457	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Mrakiaceae	Family	1	Mrakia	Genus	1	Mrakia_frigida	Species	0.99
+OTU458	+	unidentified	Domain	0.5																		
+OTU459	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Gentianales	Order	1	Rubiaceae	Family	1	Richardia	Genus	0.88	Richardia_scabra	Species	0.7744
+OTU46	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Ericales	Order	0.99	Theaceae	Family	0.9801	Camellia	Genus	0.9703	Camellia_sinensis	Species	0.6113
+OTU460	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Verrucariales	Order	1	Verrucariaceae	Family	0.98	Verrucaria	Genus	0.9408	Verrucaria_kalenskyi	Species	0.254
+OTU461	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreales_fam_Incertae_sedis	Family	1	Trichothecium	Genus	0.51	Trichothecium_roseum	Species	0.2601
+OTU462	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Sordariales	Order	0.9017	Lasiosphaeriaceae	Family	0.8296	Fimetariella	Genus	0.7632			
+OTU463	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Caryophyllales	Order	1	Amaranthaceae	Family	1	Spinacia	Genus	1	Spinacia_oleracea	Species	0.97
+OTU464	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Steccherinaceae	Family	1	Steccherinum	Genus	1	Steccherinum_ochraceum	Species	0.98
+OTU465	+	Viridiplantae	Domain	0.99	Anthophyta	Phylum	0.9801	Monocotyledonae	Class	0.9703	Poales	Order	0.9606	Poaceae	Family	0.951	Poa	Genus	0.8464	Poa_trivialis	Species	0.7533
+OTU466	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Xylariales	Order	0.9507									
+OTU467	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Fomitopsidaceae	Family	1	Fibroporia	Genus	0.99	Fibroporia_citrina	Species	0.8019
+OTU468	+	Fungi	Domain	0.9	Basidiomycota	Phylum	0.81	Tremellomycetes	Class	0.729	Filobasidiales	Order	0.6561	Piskurozymaceae	Family	0.5905	Solicoccozyma	Genus	0.5314	Solicoccozyma_terricola	Species	0.4783
+OTU469	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Bipolaris	Genus	0.9	Bipolaris_shoemakeri	Species	0.234
+OTU47	+	Viridiplantae	Domain	0.91	Chlorophyta	Phylum	0.8281	Chlorophyceae	Class	0.7536	Volvocales	Order	0.6707	Chlamydomonadaceae	Family	0.4091	Chlamydomonas	Genus	0.2496			
+OTU470	+	unidentified	Domain	0.16																		
+OTU471	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Wallemiomycetes	Class	1	Wallemiales	Order	1	Wallemiaceae	Family	1	Wallemia	Genus	1	Wallemia_ichthyophaga	Species	1
+OTU472	+	Fungi	Domain	1	Basidiomycota	Phylum	0.96	Agaricomycetes	Class	0.9216	Polyporales	Order	0.8847	Fomitopsidaceae	Family	0.8493	Amyloporia	Genus	0.8154	Amyloporia_sinuosa	Species	0.7828
+OTU473	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	0.98	Neosetophoma	Genus	0.9604	Neosetophoma_xingrensis	Species	0.5474
+OTU474	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Boletales	Order	1	Boletaceae	Family	1	Xerocomellus	Genus	1	Xerocomellus_chrysenteron	Species	0.99
+OTU475	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Strophariaceae	Family	1	Stropharia	Genus	0.99	Stropharia_coronilla	Species	0.9801
+OTU476	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Fomitopsidaceae	Family	1	Postia	Genus	1	Postia_guttulata	Species	1
+OTU477	+	unidentified	Domain	0.53																		
+OTU478	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	0.99	Bondarzewiaceae	Family	0.9801	Heterobasidion	Genus	0.9703	Heterobasidion_occidentale	Species	0.9024
+OTU479	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	1	Cucurbitaceae	Family	1	Sechium	Genus	0.99	Sechium_edule	Species	0.9801
+OTU48	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Dothideomycetes	Class	0.9025	Pleosporales	Order	0.8574	Didymellaceae	Family	0.6945	Ascochyta	Genus	0.1528	Ascochyta_pilosella	Species	0.0321
+OTU480	+	Fungi	Domain	1	Basidiomycota	Phylum	0.97	Agaricomycetes	Class	0.9409	Polyporales	Order	0.9127									
+OTU481	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Tricholomataceae	Family	1	Lachnella	Genus	1	Lachnella_alboviolascens	Species	1
+OTU482	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Agaricaceae	Family	0.85	Coprinus	Genus	0.6205	Coprinus_comatus	Species	0.3475
+OTU483	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Lycoperdaceae	Family	1	Lycoperdon	Genus	1	Lycoperdon_pratense	Species	0.99
+OTU484	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Ophiostomatales	Order	1	Ophiostomataceae	Family	1	Leptographium	Genus	0.64	Leptographium_pyrinum	Species	0.2304
+OTU485	+	Fungi	Domain	0.97	Ascomycota	Phylum	0.9409															
+OTU486	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Nectriaceae	Family	0.88	Fusarium	Genus	0.7744	Fusarium_graminearum	Species	0.4646
+OTU487	+	Fungi	Domain	1	Ascomycota	Phylum	0.92	Sordariomycetes	Class	0.8464	Diaporthales	Order	0.7702	Gnomoniaceae	Family	0.6855	Ophiognomonia	Genus	0.3565	Ophiognomonia_setacea	Species	0.0927
+OTU488	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Togniniales	Order	0.99	Togniniaceae	Family	0.9801	Phaeoacremonium	Genus	0.9703	Phaeoacremonium_aquaticum	Species	0.2135
+OTU489	+	Fungi	Domain	0.9	Ascomycota	Phylum	0.792	Dothideomycetes	Class	0.697	Pleosporales	Order	0.6133	Phaeosphaeriaceae	Family	0.3496						
+OTU49	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1	Malassezia_sympodialis	Species	1
+OTU490	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.96	Eudicotyledonae	Class	0.9216	Brassicales	Order	0.8847	Brassicaceae	Family	0.8493	Raphanus	Genus	0.3567	Raphanus_sativus	Species	0.0963
+OTU491	+	Viridiplantae	Domain	0.9	Chlorophyta	Phylum	0.747	Trebouxiophyceae	Class	0.6051	Chlorellales	Order	0.4599	Chlorellaceae	Family	0.3219	Marasphaerium	Genus	0.2157			
+OTU492	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Thelephorales	Order	1	Thelephoraceae	Family	1	Tomentella	Genus	0.93	Tomentella_ellisii	Species	0.837
+OTU493	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Cryptococcaceae	Family	1	Cryptococcus	Genus	1	Cryptococcus_festucosus	Species	0.93
+OTU494	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1									
+OTU495	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9405	Cystobasidiomycetes	Class	0.8935	Cystobasidiomycetes_ord_Incertae_sedis	Order	0.5629	Symmetrosporaceae	Family	0.2702	Symmetrospora	Genus	0.1297			
+OTU496	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Valsaceae	Family	1						
+OTU497	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	1	Leptospora	Genus	1	Leptospora_galii	Species	0.98
+OTU498	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Pedaliaceae	Family	0.92	Sesamum	Genus	0.8372	Sesamum_indicum	Species	0.7619
+OTU499	+	unidentified	Domain	0.62																		
+OTU5	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Eurotiomycetes	Class	0.9801	Eurotiales	Order	0.9703	Aspergillaceae	Family	0.9218	Penicillium	Genus	0.8573	Penicillium_svalbardense	Species	0.2572
+OTU50	+	Fungi	Domain	1	Basidiomycota	Phylum	0.93	Agaricomycetes	Class	0.8649	Polyporales	Order	0.8044	Polyporaceae	Family	0.7481	Trametes	Genus	0.6807	Trametes_versicolor	Species	0.599
+OTU500	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Microthamniales	Order	0.99	Microthamniales_fam_Incertae_sedis	Family	0.9801	Vulcanochloris	Genus	0.9703			
+OTU501	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.99	Pleosporales	Order	0.9603									
+OTU502	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9408	Eurotiomycetes	Class	0.9032	Chaetothyriales	Order	0.867	Herpotrichiellaceae	Family	0.8324	Exophiala	Genus	0.7741	Exophiala_tremulae	Species	0.3329
+OTU503	+	Fungi	Domain	0.99																		
+OTU504	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1									
+OTU505	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Phanerochaetaceae	Family	0.72	Porostereum	Genus	0.5184			
+OTU506	+	unidentified	Domain	0.62																		
+OTU507	+	Fungi	Domain	0.64	Basidiomycota	Phylum	0.4096	Agaricomycetes	Class	0.2621	Agaricales	Order	0.1678	Tricholomataceae	Family	0.1074	Calyptella	Genus	0.0687	Calyptella_capula	Species	0.044
+OTU508	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Lecanorales	Order	1	Lecanoraceae	Family	1	Lecanora	Genus	1	Lecanora_pulicaris	Species	0.94
+OTU509	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Penicillium	Genus	1	Penicillium_penicillioides	Species	0.72
+OTU51	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Stemphylium	Genus	0.99			
+OTU510	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Leptosphaeriaceae	Family	1	Sphaerellopsis	Genus	1	Sphaerellopsis_macroconidialis	Species	0.93
+OTU511	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Tricholomataceae	Family	1	Xeromphalina	Genus	1	Xeromphalina_campanella	Species	0.99
+OTU512	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.9409	Mycosphaerellales	Order	0.7998	Teratosphaeriaceae	Family	0.6478						
+OTU513	+	Heterolobosa	Domain	0.85	Heterolobosa_phy_Incertae_sedis	Phylum	0.7225	Heterolobosea	Class	0.6141	Schizopyrenida	Order	0.522	Vahlkampfiidae	Family	0.4437	Vahlkampfia	Genus	0.2751			
+OTU514	+	Viridiplantae	Domain	0.85	Anthophyta	Phylum	0.714	Eudicotyledonae	Class	0.5926	Malpighiales	Order	0.48	Salicaceae	Family	0.384	Salix	Genus	0.3034			
+OTU515	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	0.99	Trebouxiaceae	Family	0.9801	Trebouxia	Genus	0.9703			
+OTU516	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	1	Cucurbitaceae	Family	1	Citrullus	Genus	0.82	Citrullus_lanatus	Species	0.656
+OTU517	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	0.98			
+OTU518	+	Fungi	Domain	1																		
+OTU519	+	unidentified	Domain	0.84																		
+OTU52	+	Fungi	Domain	1	Ascomycota	Phylum	0.78	Eurotiomycetes	Class	0.6084	Chaetothyriales	Order	0.4746	Trichomeriaceae	Family	0.3227	Lithohypha	Genus	0.2194	Lithohypha_aloicola	Species	0.1492
+OTU520	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9408	Leotiomycetes	Class	0.7997	Helotiales	Order	0.6717	Mollisiaceae	Family	0.094						
+OTU521	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Lecanoromycetes	Class	0.9801	Teloschistales	Order	0.9703	Teloschistaceae	Family	0.9606						
+OTU522	-	unidentified	Domain	1																		
+OTU523	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Lophiostomataceae	Family	1	Neovaginatispora	Genus	0.71	Neovaginatispora_clematidis	Species	0.5041
+OTU524	+	Fungi	Domain	0.69	Ascomycota	Phylum	0.3312	Pneumocystomycetes	Class	0.0762	Pneumocystales	Order	0.0175	Pneumocystaceae	Family	0.004	Pneumocystis	Genus	0.0009	Pneumocystis_canis	Species	0.0002
+OTU525	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Valsaceae	Family	1	Cytospora	Genus	0.97	Cytospora_predappioensis	Species	0.3298
+OTU526	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Solanales	Order	0.96	Solanaceae	Family	0.9216	Nicotiana	Genus	0.8387	Nicotiana_bonariensis	Species	0.1677
+OTU527	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Exobasidiomycetes	Class	0.98	Exobasidiales	Order	0.9604	Exobasidiaceae	Family	0.9412	Exobasidium	Genus	0.9224			
+OTU528	+	Fungi	Domain	1	Basidiomycota	Phylum	0.81	Agaricomycetes	Class	0.6561	Corticiales	Order	0.5249	Corticiaceae	Family	0.4199	Limonomyces	Genus	0.3359			
+OTU529	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Pyrus	Genus	0.87	Pyrus_spinosa	Species	0.6264
+OTU53	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Asparagales	Order	1	Amaryllidaceae	Family	1	Allium	Genus	1	Allium_cepa	Species	0.7
+OTU530	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Leotiomycetes	Class	0.1632	Helotiales	Order	0.0277	Cenangiaceae	Family	0.0017	Velutarina	Genus	0.0001	Velutarina_rufo-olivacea	Species	0
+OTU531	+	Fungi	Domain	1	Ascomycota	Phylum	0.85	Sordariomycetes	Class	0.527	Glomerellales	Order	0.2951	Plectosphaerellaceae	Family	0.1653	Gibellulopsis	Genus	0.0496			
+OTU532	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Rhytismatales	Order	1	Rhytismataceae	Family	1	Colpoma	Genus	1	Colpoma_quercinum	Species	1
+OTU533	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.95	Capnodiales	Order	0.9025	Cladosporiaceae	Family	0.8574	Verrucocladosporium	Genus	0.7974	Verrucocladosporium_dirinae	Species	0.3588
+OTU534	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Polyporaceae	Family	0.99	Trametes	Genus	0.9504	Trametes_hirsuta	Species	0.6938
+OTU535	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Myrmecridiales	Order	1	Myrmecridiaceae	Family	1	Myrmecridium	Genus	1			
+OTU536	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Hannaella	Genus	1			
+OTU537	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Pichiaceae	Family	1	Pichia	Genus	1	Pichia_mandshurica	Species	0.85
+OTU538	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Pucciniomycetes	Class	1	Pucciniales	Order	1	Pucciniaceae	Family	1	Puccinia	Genus	1	Puccinia_graminis	Species	0.99
+OTU539	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiomycetes_ord_Incertae_sedis	Order	1	Symmetrosporaceae	Family	1	Symmetrospora	Genus	1			
+OTU54	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Phaffomycetaceae	Family	1	Cyberlindnera	Genus	1	Cyberlindnera_jadinii	Species	1
+OTU540	+	Fungi	Domain	0.82	Ascomycota	Phylum	0.6724	Dothideomycetes	Class	0.5514	Pleosporales	Order	0.4521	Lophiostomataceae	Family	0.3617	Lophiostoma	Genus	0.2279	Lophiostoma_japonicum	Species	0.057
+OTU541	+	Fungi	Domain	0.94	Ascomycota	Phylum	0.8742	Sordariomycetes	Class	0.7518	Hypocreales	Order	0.4285	Hypocreales_fam_Incertae_sedis	Family	0.2186	Barbatosphaeria	Genus	0.1115	Barbatosphaeria_dryina	Species	0.0145
+OTU542	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1						
+OTU543	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	0.93	Septoriella	Genus	0.8649	Septoriella_oudemansii	Species	0.8044
+OTU544	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1												
+OTU545	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1												
+OTU546	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiales	Order	1	Cystobasidiaceae	Family	1	Cystobasidium	Genus	1	Cystobasidium_lysinophilum	Species	1
+OTU547	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1									
+OTU548	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	0.99	Diatrypaceae	Family	0.9801	Eutypella	Genus	0.6861	Eutypella_prunastri	Species	0.4802
+OTU549	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Sordariomycetes	Class	0.9604	Hypocreales	Order	0.9412	Nectriaceae	Family	0.9224	Cosmospora	Genus	0.6088	Cosmospora_lavitskiae	Species	0.2557
+OTU55	+	Fungi	Domain	1																		
+OTU550	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricostilbomycetes	Class	1	Agaricostilbales	Order	1	Kondoaceae	Family	1	Kondoa	Genus	1			
+OTU551	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Sapindales	Order	1	Rutaceae	Family	1	Citrus	Genus	0.9			
+OTU552	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Blumeria	Genus	1	Blumeria_graminis	Species	1
+OTU553	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	0.94	Cyphellophoraceae	Family	0.658	Cyphellophora	Genus	0.3882			
+OTU554	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Pleosporales	Order	0.9703	Phaeosphaeriaceae	Family	0.9606	Italica	Genus	0.951	Italica_achilleae	Species	0.9415
+OTU555	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Erysiphe	Genus	0.9			
+OTU556	+	Viridiplantae	Domain	1	Coniferophyta	Phylum	1	Pinopsida	Class	1	Pinales	Order	1	Pinaceae	Family	1	Pinus	Genus	1	Pinus_thunbergii	Species	0.31
+OTU557	+	Heterolobosa	Domain	0.86	Heterolobosa_phy_Incertae_sedis	Phylum	0.7396	Heterolobosea	Class	0.6361	Schizopyrenida	Order	0.547	Vahlkampfiidae	Family	0.4704	Vahlkampfia	Genus	0.334			
+OTU558	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.9409	Pleosporales	Order	0.9127	Phaeosphaeriaceae	Family	0.8853	Pseudoophiobolus	Genus	0.841	Pseudoophiobolus_rosae	Species	0.4542
+OTU559	+	Alveolata	Domain	0.58	Ciliophora	Phylum	0.3364	Oligohymenophorea	Class	0.1917	Philasterida	Order	0.1093	Uronematidae	Family	0.0623	Homalogastra	Genus	0.0355			
+OTU56	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1	Picris	Genus	1	Picris_hieracioides	Species	0.63
+OTU560	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Saccharomycetaceae	Family	1	Kluyveromyces	Genus	1	Kluyveromyces_marxianus	Species	0.98
+OTU561	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Melanconidaceae	Family	1	Melanconiella	Genus	1	Melanconiella_carpinicola	Species	1
+OTU562	+	Fungi	Domain	1	Ascomycota	Phylum	0.88	Sordariomycetes	Class	0.7744	Coniochaetales	Order	0.6195	Coniochaetaceae	Family	0.477						
+OTU563	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariales	Order	0.96	Cephalothecaceae	Family	0.9216	Phialemonium	Genus	0.8571	Phialemonium_inflatum	Species	0.7714
+OTU564	+	unidentified	Domain	0.44																		
+OTU565	+	Fungi	Domain	1	Ascomycota	Phylum	1	Orbiliomycetes	Class	1	Orbiliales	Order	1	Orbiliaceae	Family	1	Hyalorbilia	Genus	1	Hyalorbilia_hergiswiliana	Species	1
+OTU566	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Polyporaceae	Family	1	Trametes	Genus	0.6	Trametes_cubensis	Species	0.282
+OTU567	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Prasiolales	Order	1	Prasiolaceae	Family	1	Diplosphaera	Genus	0.96	Diplosphaera_chodatii	Species	0.8832
+OTU568	+	unidentified	Domain	0.95																		
+OTU569	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Exobasidiomycetes	Class	1	Entylomatales	Order	1	Entylomataceae	Family	1	Tilletiopsis	Genus	1	Tilletiopsis_lilacina	Species	0.62
+OTU57	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Sporidiobolales	Order	1	Sporidiobolaceae	Family	1	Sporobolomyces	Genus	1	Sporobolomyces_roseus	Species	0.77
+OTU570	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Ustilaginomycetes	Class	1	Ustilaginales	Order	1	Ustilaginaceae	Family	1	Ustilago	Genus	0.98			
+OTU571	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Diaporthales	Order	1	Gnomoniaceae	Family	0.87	Gnomoniopsis	Genus	0.7308	Gnomoniopsis_idaeicola	Species	0.3142
+OTU572	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	0.93	Poales	Order	0.8649	Poaceae	Family	0.8044						
+OTU573	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Nigrogranaceae	Family	1	Nigrograna	Genus	1	Nigrograna_fuscidula	Species	1
+OTU574	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Zea	Genus	1	Zea_mays	Species	0.47
+OTU575	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	1	Erysiphales	Order	1	Erysiphaceae	Family	1	Podosphaera	Genus	1	Podosphaera_leucotricha	Species	0.93
+OTU576	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Filobasidiales	Order	0.93	Filobasidiaceae	Family	0.8649	Filobasidium	Genus	0.8044	Filobasidium_globosum	Species	0.7481
+OTU577	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Ceratobasidiaceae	Family	1	Rhizoctonia	Genus	0.65	Rhizoctonia_solani	Species	0.4225
+OTU578	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Rickenellaceae	Family	1	Peniophorella	Genus	1	Peniophorella_praetermissa	Species	0.98
+OTU579	+	Fungi	Domain	1																		
+OTU58	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9801	Hypocreales	Order	0.9703	Ophiocordycipitaceae	Family	0.8053	Purpureocillium	Genus	0.4913	Purpureocillium_lilacinum	Species	0.1867
+OTU580	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Omphalotaceae	Family	1	Gymnopus	Genus	1	Gymnopus_dryophilus	Species	1
+OTU581	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Erythrobasidiales	Order	1									
+OTU582	-	unidentified	Domain	1																		
+OTU583	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Hypocreales_fam_Incertae_sedis	Family	0.97	Acremonium	Genus	0.7857	Acremonium_salmoneum	Species	0.2907
+OTU584	-	Fungi	Domain	0.9	Ascomycota	Phylum	0.684	Lecanoromycetes	Class	0.3967	Gyalectales	Order	0.1428	Phlyctidaceae	Family	0.0514	Phlyctis	Genus	0.0185	Phlyctis_speirea	Species	0.0067
+OTU585	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.8811	Dothideomycetes	Class	0.6256	Mycosphaerellales	Order	0.3753	Teratosphaeriaceae	Family	0.2139	Apenidiella	Genus	0.0834	Apenidiella_strumelloidea	Species	0.03
+OTU586	+	Fungi	Domain	1	Basidiomycota	Phylum	0.95	Agaricomycetes	Class	0.9025	Polyporales	Order	0.7942	Fomitopsidaceae	Family	0.413	Antrodia	Genus	0.1652	Antrodia_pini-cubensis	Species	0.0446
+OTU587	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Debaryomycetaceae	Family	1	Lodderomyces	Genus	1	Lodderomyces_elongisporus	Species	1
+OTU588	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Chlorellales	Order	1	Chlorellaceae	Family	1	Apatococcus	Genus	1			
+OTU589	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	0.91	Parastagonospora	Genus	0.2821			
+OTU59	+	Fungi	Domain	1																		
+OTU590	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Hymenochaetaceae	Family	1	Phylloporia	Genus	1	Phylloporia_ribis	Species	0.99
+OTU591	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1	Hypoxylaceae	Family	1	Daldinia	Genus	1	Daldinia_childiae	Species	0.99
+OTU592	+	Fungi	Domain	1	Entomophthoromycota	Phylum	1	Entomophthoromycetes	Class	1	Entomophthorales	Order	1	Entomophthoraceae	Family	1	Pandora	Genus	1	Pandora_neoaphidis	Species	1
+OTU593	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Hydnaceae	Family	1	Sistotrema	Genus	1			
+OTU594	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1			
+OTU595	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Chlorophyceae	Class	1	Chlamydomonadales	Order	1	Coccomyxaceae	Family	1	Coccomyxa	Genus	1	Coccomyxa_viridis	Species	0.7
+OTU596	+	Fungi	Domain	1	Ascomycota	Phylum	0.98															
+OTU597	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9405	Sordariomycetes	Class	0.7336	Diaporthales	Order	0.5649	Stilbosporaceae	Family	0.1977	Stegonsporium	Genus	0.0652	Stegonsporium_pseudopyriforme	Species	0.0196
+OTU598	+	Fungi	Domain	1	Basidiomycota	Phylum	0.87	Agaricomycetes	Class	0.7569	Corticiales	Order	0.3406	Corticiaceae	Family	0.1533	Waitea	Genus	0.069	Waitea_circinata	Species	0.0303
+OTU599	+	Fungi	Domain	0.6	Chytridiomycota	Phylum	0.36	Rhizophydiomycetes	Class	0.216	Rhizophydiales	Order	0.1296	Rhizophydiales_fam_Incertae_sedis	Family	0.0778	Operculomyces	Genus	0.0467	Operculomyces_laminatus	Species	0.0275
+OTU6	+	Fungi	Domain	0.91	Ascomycota	Phylum	0.7917	Eurotiomycetes	Class	0.6888	Eurotiales	Order	0.5992	Aspergillaceae	Family	0.4854	Penicillium	Genus	0.3883	Penicillium_digitatum	Species	0.1048
+OTU60	+	unidentified	Domain	0.93																		
+OTU600	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1									
+OTU601	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Caryophyllales	Order	1	Caryophyllaceae	Family	1						
+OTU602	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	1	Exophiala_mali	Species	0.43
+OTU603	+	Fungi	Domain	0.85	Ascomycota	Phylum	0.459	Lecanoromycetes	Class	0.1836	Lecanorales	Order	0.0275	Ramalinaceae	Family	0.0041	Biatora	Genus	0.0006	Biatora_pontica	Species	0.0001
+OTU604	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Tricholomataceae	Family	1	Lachnella	Genus	1	Lachnella_villosa	Species	1
+OTU605	+	Fungi	Domain	1	Basidiomycota	Phylum	0.84	Agaricomycetes	Class	0.7056	Cantharellales	Order	0.5927	Ceratobasidiaceae	Family	0.4979	Rhizoctonia	Genus	0.1743	Rhizoctonia_solani	Species	0.061
+OTU606	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Asparagales	Order	1	Amaryllidaceae	Family	1	Allium	Genus	1	Allium_ampeloprasum	Species	0.54
+OTU607	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Capnodiales	Order	1	Dissoconiaceae	Family	1	Dissoconium	Genus	1	Dissoconium_nelumbonis	Species	0.83
+OTU608	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Agaricomycetes	Class	0.9801	Cantharellales	Order	0.9703	Ceratobasidiaceae	Family	0.9606						
+OTU609	+	Fungi	Domain	0.95	Ascomycota	Phylum	0.874	Eurotiomycetes	Class	0.7953	Eurotiales	Order	0.7238	Aspergillaceae	Family	0.6586	Penicillium	Genus	0.5335	Penicillium_atrovenetum	Species	0.2934
+OTU61	+	Fungi	Domain	1																		
+OTU610	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1												
+OTU611	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricomycetes_ord_Incertae_sedis	Order	0.97	Xenasmataceae	Family	0.9409	Xenasmatella	Genus	0.9127			
+OTU612	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Dothideales	Order	1	Dothioraceae	Family	1	Perusta	Genus	1			
+OTU613	+	Viridiplantae	Domain	0.85	Chlorophyta	Phylum	0.7055	Trebouxiophyceae	Class	0.5573	Chlorellales	Order	0.3901	Chlorellaceae	Family	0.238	Marasphaerium	Genus	0.1428			
+OTU614	+	Fungi	Domain	1	Mucoromycota	Phylum	1	Mucoromycetes	Class	1	Mucorales	Order	1	Mucoraceae	Family	1	Mucor	Genus	1			
+OTU615	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Sistotremastrales	Order	0.62	Sistotremastraceae	Family	0.3844	Sistotremastrum	Genus	0.2383			
+OTU616	+	Viridiplantae	Domain	0.96	Anthophyta	Phylum	0.9216	Eudicotyledonae	Class	0.8847	Ericales	Order	0.7697	Theaceae	Family	0.662	Camellia	Genus	0.5627	Camellia_sinensis	Species	0.2251
+OTU617	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Omphalotaceae	Family	1	Gymnopus	Genus	1	Gymnopus_impudicus	Species	1
+OTU618	+	Fungi	Domain	0.88	Ascomycota	Phylum	0.572	Lecanoromycetes	Class	0.2345	Gyalectales	Order	0.0516	Phlyctidaceae	Family	0.0114	Phlyctis	Genus	0.0025	Phlyctis_speirea	Species	0.0005
+OTU619	+	Fungi	Domain	0.98	Basidiomycota	Phylum	0.9506	Agaricomycetes	Class	0.9126	Hysterangiales	Order	0.1369	Hysterangiaceae	Family	0.0192	Hysterangium	Genus	0.0023			
+OTU62	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Oleaceae	Family	1	Fraxinus	Genus	1	Fraxinus_angustifolia	Species	0.86
+OTU620	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	0.99	Diaporthales	Order	0.7524	Valsaceae	Family	0.5718	Cytospora	Genus	0.3488	Cytospora_cinnamomea	Species	0.1046
+OTU621	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Filobasidiales	Order	1	Filobasidiaceae	Family	1	Filobasidium	Genus	1	Filobasidium_wieringae	Species	1
+OTU622	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9604	Eurotiomycetes	Class	0.9412	Chaetothyriales	Order	0.9224	Herpotrichiellaceae	Family	0.8855	Cladophialophora	Genus	0.7172			
+OTU623	-	unidentified	Domain	1																		
+OTU624	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Leotiomycetes	Class	0.9025	Thelebolales	Order	0.8483	Thelebolaceae	Family	0.7974	Inopinatum	Genus	0.7416	Inopinatum_lactosum	Species	0.6897
+OTU625	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariomycetes_ord_Incertae_sedis	Order	1	Sordariomycetes_fam_Incertae_sedis	Family	1	Lentomitella	Genus	1	Lentomitella_tenuirostris	Species	0.98
+OTU626	+	Fungi	Domain	1	Ascomycota	Phylum	1	Orbiliomycetes	Class	1	Orbiliales	Order	1	Orbiliaceae	Family	1	Orbilia	Genus	0.99	Orbilia_ovoidea	Species	0.6237
+OTU627	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.9409	Pleosporales	Order	0.9127	Phaeosphaeriaceae	Family	0.794	Pseudoophiobolus	Genus	0.532	Pseudoophiobolus_italicus	Species	0.2766
+OTU628	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Brassicales	Order	1	Brassicaceae	Family	1	Erophila	Genus	0.74	Erophila_verna	Species	0.5476
+OTU629	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Vishniacozyma	Genus	1	Vishniacozyma_heimaeyensis	Species	1
+OTU63	+	Fungi	Domain	1	Ascomycota	Phylum	0.69	Leotiomycetes	Class	0.4761	Helotiales	Order	0.3285	Sclerotiniaceae	Family	0.2234	Botrytis	Genus	0.1072	Botrytis_caroliniana	Species	0.0504
+OTU630	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Xeromyces	Genus	1	Xeromyces_bisporus	Species	1
+OTU631	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Leotiomycetes	Class	0.9409	Helotiales	Order	0.9033	Helotiaceae	Family	0.7497	Pragmopora	Genus	0.6223			
+OTU632	+	Fungi	Domain	0.76	Ascomycota	Phylum	0.5776	Dothideomycetes	Class	0.439	Dothideales	Order	0.3336	Dothioraceae	Family	0.2536	Perusta	Genus	0.1927			
+OTU633	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9702	Agaricomycetes	Class	0.9508	Cantharellales	Order	0.9318	Ceratobasidiaceae	Family	0.9131						
+OTU634	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Wallemiomycetes	Class	1	Wallemiales	Order	1	Wallemiaceae	Family	1	Wallemia	Genus	1	Wallemia_sebi	Species	0.53
+OTU635	+	Fungi	Domain	0.88	Ascomycota	Phylum	0.4224	Lecanoromycetes	Class	0.1521	Gyalectales	Order	0.0319	Phlyctidaceae	Family	0.0067	Phlyctis	Genus	0.0014	Phlyctis_speirea	Species	0.0003
+OTU636	+	unidentified	Domain	0.9																		
+OTU637	+	Fungi	Domain	1	Ascomycota	Phylum	1	Leotiomycetes	Class	0.89	Helotiales	Order	0.7921									
+OTU638	+	Fungi	Domain	0.81	Ascomycota	Phylum	0.648	Orbiliomycetes	Class	0.4147	Orbiliales	Order	0.2654									
+OTU639	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.8118	Sordariales	Order	0.6576									
+OTU64	+	Fungi	Domain	0.96	Ascomycota	Phylum	0.9216	Eurotiomycetes	Class	0.8847	Eurotiales	Order	0.8493	Aspergillaceae	Family	0.8154	Penicillium	Genus	0.742	Penicillium_glabrum	Species	0.1558
+OTU640	+	Fungi	Domain	0.96	Ascomycota	Phylum	0.9216	Dothideomycetes	Class	0.8202	Pleosporales	Order	0.73									
+OTU641	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Dothideomycetes	Class	0.9025	Pleosporales	Order	0.8574	Phaeosphaeriaceae	Family	0.7545	Paraophiobolus	Genus	0.6262	Paraophiobolus_arundinis	Species	0.5198
+OTU642	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	0.96												
+OTU643	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9405	Sordariomycetes	Class	0.8935	Hypocreales	Order	0.8399	Bionectriaceae	Family	0.3695	Valsonectria	Genus	0.1293	Valsonectria_pulchella	Species	0.0414
+OTU644	+	Viridiplantae	Domain	0.77	Chlorophyta	Phylum	0.5929	Trebouxiophyceae	Class	0.421												
+OTU645	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Lophiostomataceae	Family	0.96	Lophiostoma	Genus	0.9216			
+OTU646	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Digitaria	Genus	0.99	Digitaria_ischaemum	Species	0.8514
+OTU647	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Sordariomycetes	Class	0.9702	Diaporthales	Order	0.912	Sydowiellaceae	Family	0.4742	Breviappendix	Genus	0.1707	Breviappendix_rubi	Species	0.0615
+OTU648	+	Fungi	Domain	1	Ascomycota	Phylum	1	Orbiliomycetes	Class	1	Orbiliales	Order	1	Orbiliaceae	Family	1	Orbilia	Genus	1	Orbilia_xanthostigma	Species	1
+OTU649	+	Fungi	Domain	0.88	Ascomycota	Phylum	0.4664	Lecanoromycetes	Class	0.1959	Gyalectales	Order	0.0529	Phlyctidaceae	Family	0.0143	Phlyctis	Genus	0.0039	Phlyctis_speirea	Species	0.001
+OTU65	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Cordycipitaceae	Family	1	Simplicillium	Genus	1	Simplicillium_aogashimaense	Species	0.99
+OTU650	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Atheliales	Order	1	Tylosporaceae	Family	0.99	Amphinema	Genus	0.9801			
+OTU651	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Bromus	Genus	1	Bromus_armenus	Species	0.9
+OTU652	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporales_fam_Incertae_sedis	Family	0.99	Aaosphaeria	Genus	0.9801	Aaosphaeria_arxii	Species	0.9703
+OTU653	+	Viridiplantae	Domain	1	Coniferophyta	Phylum	1	Pinopsida	Class	1	Pinales	Order	1	Pinaceae	Family	1	Pinus	Genus	1	Pinus_merkusii	Species	0.35
+OTU654	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.97	Capnodiales	Order	0.9409	Dissoconiaceae	Family	0.9127	Globoramichloridium	Genus	0.7301	Globoramichloridium_indicum	Species	0.5841
+OTU655	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Omphalotaceae	Family	0.99	Rhodocollybia	Genus	0.9801	Rhodocollybia_butyracea	Species	0.6273
+OTU656	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Microbotryales	Order	1	Ustilentylomataceae	Family	1	Ustilentyloma	Genus	1			
+OTU657	+	Fungi	Domain	1	Ascomycota	Phylum	0.91	Dothideomycetes	Class	0.819	Pleosporales	Order	0.7371	Massarinaceae	Family	0.5528	Exosporium	Genus	0.4146	Exosporium_stylobatum	Species	0.311
+OTU658	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.94	Eudicotyledonae	Class	0.8836	Brassicales	Order	0.8306	Brassicaceae	Family	0.7807	Sinapis	Genus	0.5856	Sinapis_alba	Species	0.4392
+OTU659	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Elymus	Genus	0.51	Elymus_nutans	Species	0.1581
+OTU66	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Cystofilobasidiales	Order	1	Mrakiaceae	Family	1	Itersonilia	Genus	1	Itersonilia_perplexans	Species	0.94
+OTU660	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	0.99	Aspergillaceae	Family	0.9801	Hamigera	Genus	0.7841	Hamigera_inflata	Species	0.2666
+OTU661	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.57												
+OTU662	+	Fungi	Domain	1	Basidiomycota	Phylum	0.77	Agaricomycetes	Class	0.5929	Boletales	Order	0.4387	Boletaceae	Family	0.3247	Tylopilus	Genus	0.2403			
+OTU663	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Digitaria	Genus	1	Digitaria_ciliaris	Species	0.78
+OTU664	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Rhynchogastremataceae	Family	0.79	Papiliotrema	Genus	0.6241	Papiliotrema_laurentii	Species	0.2434
+OTU665	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	0.65	Chaetothyriales	Order	0.4225	Herpotrichiellaceae	Family	0.2704	Rhinocladiella	Genus	0.1676			
+OTU666	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Vishniacozyma	Genus	1			
+OTU667	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fagales	Order	1	Fagaceae	Family	1	Castanea	Genus	0.73	Castanea_pumila	Species	0.2701
+OTU668	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Fabales	Order	1	Fabaceae	Family	1	Prosopis	Genus	0.99	Prosopis_articulata	Species	0.693
+OTU669	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	1	Trebouxiaceae	Family	1	Trebouxia	Genus	1	Trebouxia_gelatinosa	Species	0.98
+OTU67	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9702	Sordariomycetes	Class	0.7859	Hypocreales	Order	0.6365	Nectriaceae	Family	0.5156	Fusarium	Genus	0.3403	Fusarium_equiseti	Species	0.0851
+OTU670	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	0.98									
+OTU671	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Magnaporthales	Order	1	Magnaporthaceae	Family	1						
+OTU672	+	Fungi	Domain	0.73	Basidiomycota	Phylum	0.5329	Agaricomycetes	Class	0.389	Cantharellales	Order	0.284	Ceratobasidiaceae	Family	0.2073						
+OTU673	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9108															
+OTU674	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Hymenochaetales	Order	1	Hymenochaetaceae	Family	1	Hymenochaete	Genus	1	Hymenochaete_innexa	Species	0.96
+OTU675	+	Fungi	Domain	1	Mucoromycota	Phylum	1	Mucoromycetes	Class	1	Mucorales	Order	1	Rhizopodaceae	Family	1	Rhizopus	Genus	1	Rhizopus_arrhizus	Species	1
+OTU676	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Dothideomycetes	Class	0.9703	Hysteriales	Order	0.9509	Hysteriaceae	Family	0.9319	Hysterium	Genus	0.8666			
+OTU677	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.8	Eudicotyledonae	Class	0.64	Fagales	Order	0.512	Betulaceae	Family	0.4096	Alnus	Genus	0.3277	Alnus_trabeculosa	Species	0.2327
+OTU678	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	1	Hericiaceae	Family	1	Laxitextum	Genus	1	Laxitextum_bicolor	Species	1
+OTU679	+	Fungi	Domain	0.98	Basidiomycota	Phylum	0.9604	Agaricomycetes	Class	0.9412												
+OTU68	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Eurotiomycetes	Class	0.9025	Eurotiales	Order	0.8574	Aspergillaceae	Family	0.8145	Aspergillus	Genus	0.7738	Aspergillus_brasiliensis	Species	0.4565
+OTU680	+	unidentified	Domain	0.98																		
+OTU681	+	Fungi	Domain	0.78	Ascomycota	Phylum	0.4524	Lecanoromycetes	Class	0.2398	Lecanorales	Order	0.0911	Ramalinaceae	Family	0.031	Biatora	Genus	0.0102	Biatora_pontica	Species	0.0034
+OTU682	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	0.93	Ophiostomatales	Order	0.8649	Ophiostomataceae	Family	0.7092	Hawksworthiomyces	Genus	0.3688			
+OTU683	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Ceratobasidiaceae	Family	1						
+OTU684	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Caryophyllales	Order	1	Polygonaceae	Family	1	Rumex	Genus	0.98	Rumex_nepalensis	Species	0.686
+OTU685	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Ericales	Order	0.99	Theaceae	Family	0.9504	Camellia	Genus	0.9124	Camellia_microphylla	Species	0.1369
+OTU686	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Mycosphaerellales	Order	1	Mycosphaerellaceae	Family	1	Paramycosphaerella	Genus	1	Paramycosphaerella_intermedia	Species	1
+OTU687	+	Fungi	Domain	1	Ascomycota	Phylum	1	Lecanoromycetes	Class	1	Teloschistales	Order	1	Teloschistaceae	Family	1						
+OTU688	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	0.97	Xylariaceae	Family	0.9409						
+OTU689	+	Fungi	Domain	0.98	Ascomycota	Phylum	0.9506	Dothideomycetes	Class	0.9221	Gloniales	Order	0.8944	Gloniaceae	Family	0.8676	Pseudocenococcum	Genus	0.347	Pseudocenococcum_floridanum	Species	0.1388
+OTU69	-	unidentified	Domain	1																		
+OTU690	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	0.96	Pisorisporiales	Order	0.912									
+OTU691	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Agaricomycetes	Class	0.9801	Agaricales	Order	0.9703	Mycenaceae	Family	0.9218	Mycena	Genus	0.8665	Mycena_vitilis	Species	0.5805
+OTU692	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Asparagales	Order	1	Amaryllidaceae	Family	1	Allium	Genus	1	Allium_cepa	Species	0.4
+OTU693	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Dothideales	Order	0.9703									
+OTU694	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	0.98	Zingiberales	Order	0.9604	Musaceae	Family	0.9412	Musa	Genus	0.9224	Musa_indandamanensis	Species	0.6826
+OTU695	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Phanerochaetaceae	Family	0.99	Hyphodermella	Genus	0.9801	Hyphodermella_pallidostraminea	Species	0.9703
+OTU696	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Elymus	Genus	0.54	Elymus_nutans	Species	0.2646
+OTU697	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Phlebia	Genus	1	Phlebia_subochracea	Species	1
+OTU698	+	Fungi	Domain	1	Ascomycota	Phylum	0.99															
+OTU699	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Triticum	Genus	0.29	Triticum_timopheevii	Species	0.0638
+OTU7	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1	Malassezia_arunalokei	Species	1
+OTU70	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Dioszegia	Genus	1	Dioszegia_crocea	Species	0.92
+OTU700	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Elymus	Genus	0.61	Elymus_nutans	Species	0.305
+OTU701	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Lecanoromycetes	Class	0.9801	Caliciales	Order	0.9605	Physciaceae	Family	0.9413	Rinodina	Genus	0.3577	Rinodina_guzzinii	Species	0.0823
+OTU702	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.8633	Pleosporales	Order	0.7511									
+OTU703	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	0.87	Agaricales	Order	0.7569	Entolomataceae	Family	0.6585	Clitopilus	Genus	0.5729	Clitopilus_hobsonii	Species	0.4583
+OTU704	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Physalacriaceae	Family	1	Strobilurus	Genus	1	Strobilurus_esculentus	Species	0.68
+OTU705	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Asterales	Order	1	Asteraceae	Family	1	Cirsium	Genus	1	Cirsium_arvense	Species	0.94
+OTU706	+	Fungi	Domain	1	Ascomycota	Phylum	0.95	Dothideomycetes	Class	0.9025	Pleosporales	Order	0.8574									
+OTU707	+	unidentified	Domain	0.77																		
+OTU708	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	0.99	Paraloratospora	Genus	0.9801	Paraloratospora_gahniae	Species	0.9703
+OTU709	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1												
+OTU71	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Triticum	Genus	0.98	Triticum_aestivum	Species	0.7742
+OTU710	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Ericales	Order	1	Theaceae	Family	1	Camellia	Genus	0.99	Camellia_sinensis_var._assamica	Species	0.1683
+OTU711	+	Eukaryota_kgd_Incertae_sedis	Domain	0.39																		
+OTU712	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Auriculariales	Order	1									
+OTU713	+	Fungi	Domain	0.91	Ascomycota	Phylum	0.7553	Lecanoromycetes	Class	0.5514	Lecanorales	Order	0.2591	Ramalinaceae	Family	0.1192	Biatora	Genus	0.0322	Biatora_pontica	Species	0.0087
+OTU714	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Trichomonascaceae	Family	1	Zygoascus	Genus	1	Zygoascus_hellenicus	Species	1
+OTU715	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.8051												
+OTU716	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Botryosphaeriales	Order	1	Botryosphaeriaceae	Family	1	Diplodia	Genus	0.75	Diplodia_africana	Species	0.1875
+OTU717	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Leotiomycetes	Class	0.9801	Helotiales	Order	0.9703	Sclerotiniaceae	Family	0.9509						
+OTU718	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.45	Aegilops_bicornis	Species	0.1845
+OTU719	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Stachybotryaceae	Family	1						
+OTU72	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.99	Pleosporales	Order	0.9801	Cucurbitariaceae	Family	0.9703	Pyrenochaetopsis	Genus	0.9412	Pyrenochaetopsis_leptospora	Species	0.8282
+OTU720	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Ceratobasidiaceae	Family	1						
+OTU721	+	Fungi	Domain	1	Ascomycota	Phylum	0.92	Dothideomycetes	Class	0.8464	Capnodiales	Order	0.7194									
+OTU722	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Malpighiales	Order	1	Euphorbiaceae	Family	1	Euphorbia	Genus	1	Euphorbia_hirta	Species	1
+OTU723	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Elymus	Genus	0.65	Elymus_nutans	Species	0.2665
+OTU724	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricostilbomycetes	Class	1	Agaricostilbales	Order	1									
+OTU725	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricostilbomycetes	Class	1	Agaricostilbales	Order	1	Agaricostilbaceae	Family	1	Sterigmatomyces	Genus	1	Sterigmatomyces_halophilus	Species	1
+OTU726	+	Viridiplantae	Domain	1	Coniferophyta	Phylum	1	Pinopsida	Class	1	Pinales	Order	1	Cupressaceae	Family	1	Chamaecyparis	Genus	1	Chamaecyparis_obtusa	Species	1
+OTU727	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.44	Aegilops_bicornis	Species	0.1584
+OTU728	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.32	Aegilops_uniaristata	Species	0.0512
+OTU729	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Ericales	Order	0.91	Theaceae	Family	0.8281	Camellia	Genus	0.7536	Camellia_sinensis	Species	0.535
+OTU73	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9702	Agaricomycetes	Class	0.9508	Hymenochaetales	Order	0.8937	Rickenellaceae	Family	0.8312	Sidera	Genus	0.7647	Sidera_vulgaris	Species	0.5888
+OTU730	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.99	Eudicotyledonae	Class	0.9801	Fagales	Order	0.9703	Fagaceae	Family	0.9509	Castanea	Genus	0.3043	Castanea_pumila	Species	0.0609
+OTU731	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Rhynchogastremataceae	Family	1	Papiliotrema	Genus	1	Papiliotrema_frias	Species	0.92
+OTU732	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Microbotryales	Order	1	Ustilentylomataceae	Family	1	Ustilentyloma	Genus	1	Ustilentyloma_graminis	Species	0.99
+OTU733	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Nectriaceae	Family	1						
+OTU734	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Lamiaceae	Family	1	Origanum	Genus	0.98	Origanum_majorana	Species	0.686
+OTU735	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	0.98	Eurotiales	Order	0.9604	Aspergillaceae	Family	0.922	Penicillium	Genus	0.5716	Penicillium_verrucosum	Species	0.1143
+OTU736	+	Fungi	Domain	1	Mucoromycota	Phylum	1	Mucoromycetes	Class	1	Mucorales	Order	1	Rhizopodaceae	Family	1	Rhizopus	Genus	1	Rhizopus_stolonifer	Species	1
+OTU737	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Elymus	Genus	0.45	Elymus_hispidus	Species	0.108
+OTU738	+	unidentified	Domain	0.88																		
+OTU739	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Chlorophyceae	Class	1	Sphaeropleales	Order	1	Scenedesmaceae	Family	1	Pectinodesmus	Genus	0.7	Pectinodesmus_pectinatus	Species	0.49
+OTU74	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	1			
+OTU740	+	Fungi	Domain	0.74	Ascomycota	Phylum	0.3774	Lecanoromycetes	Class	0.1396	Lecanorales	Order	0.0321	Ramalinaceae	Family	0.0067	Biatora	Genus	0.0007	Biatora_pontica	Species	0.0001
+OTU741	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Cantharellales	Order	1	Botryobasidiaceae	Family	1	Botryobasidium	Genus	1	Botryobasidium_subcoronatum	Species	1
+OTU742	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	1	Amylostereaceae	Family	1	Amylostereum	Genus	1	Amylostereum_chailletii	Species	0.78
+OTU743	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1	Apiosporaceae	Family	1						
+OTU744	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Thelephorales	Order	0.99	Thelephoraceae	Family	0.9801						
+OTU745	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9702	Eurotiomycetes	Class	0.9411	Eurotiales	Order	0.9129	Aspergillaceae	Family	0.8855	Penicillium	Genus	0.7527	Penicillium_simplicissimum	Species	0.1806
+OTU746	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Rosales	Order	1	Rosaceae	Family	1	Pyrus	Genus	0.97	Pyrus_betulifolia	Species	0.7954
+OTU747	+	Fungi	Domain	1	Blastocladiomycota	Phylum	1	Blastocladiomycetes	Class	1	Blastocladiales	Order	1									
+OTU748	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Saxifragales	Order	1	Altingiaceae	Family	1	Liquidambar	Genus	1	Liquidambar_styraciflua	Species	1
+OTU749	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiales	Order	1	Cystobasidiaceae	Family	1	Cystobasidium	Genus	1	Cystobasidium_laryngis	Species	0.99
+OTU75	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Plantaginaceae	Family	1	Plantago	Genus	1	Plantago_lanceolata	Species	0.73
+OTU750	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Curvularia	Genus	0.98	Curvularia_lunata	Species	0.8232
+OTU751	+	Fungi	Domain	1	Ascomycota	Phylum	0.84	Sordariomycetes	Class	0.7056	Sordariales	Order	0.5927	Podosporaceae	Family	0.1482	Podospora	Genus	0.037	Podospora_dimorpha	Species	0.0089
+OTU752	+	Fungi	Domain	0.84	Ascomycota	Phylum	0.4956	Lecanoromycetes	Class	0.2478	Lecanorales	Order	0.0669	Ramalinaceae	Family	0.0174	Biatora	Genus	0.0026	Biatora_pontica	Species	0.0004
+OTU753	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	0.98	Stereaceae	Family	0.9604	Stereum	Genus	0.9028	Stereum_lobatum	Species	0.6861
+OTU754	+	Fungi	Domain	1	Ascomycota	Phylum	1															
+OTU755	+	unidentified	Domain	1																		
+OTU756	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Phaeomoniellales	Order	1	Phaeomoniellaceae	Family	1	Phaeomoniella	Genus	0.64			
+OTU757	+	Fungi	Domain	0.95	Ascomycota	Phylum	0.8265	Dothideomycetes	Class	0.3885	Botryosphaeriales	Order	0.1243									
+OTU758	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.42	Aegilops_comosa	Species	0.1008
+OTU759	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1									
+OTU76	+	Viridiplantae	Domain	1																		
+OTU760	+	Fungi	Domain	0.96	Ascomycota	Phylum	0.9216															
+OTU761	+	unidentified	Domain	0.75																		
+OTU762	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Sordariomycetes	Class	0.9703	Hypocreales	Order	0.9606	Nectriaceae	Family	0.951	Fusarium	Genus	0.913	Fusarium_oxysporum	Species	0.6117
+OTU763	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Ustilaginomycetes	Class	1	Urocystidales	Order	1	Fereydouniaceae	Family	1	Fereydounia	Genus	1	Fereydounia_khargensis	Species	1
+OTU764	+	Fungi	Domain	0.99	Basidiomycota	Phylum	0.9801	Tremellomycetes	Class	0.9703	Tremellales	Order	0.9606	Rhynchogastremataceae	Family	0.951	Papiliotrema	Genus	0.9415	Papiliotrema_flavescens	Species	0.7532
+OTU765	+	unidentified	Domain	0.87																		
+OTU766	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Trichosporonales	Order	1	Trichosporonaceae	Family	1	Cutaneotrichosporon	Genus	1	Cutaneotrichosporon_cutaneum	Species	0.98
+OTU767	-	Fungi	Domain	0.65	Basidiomycota	Phylum	0.1235	Agaricomycetes	Class	0.0235	Cantharellales	Order	0.0038	Tulasnellaceae	Family	0.0006	Tulasnella	Genus	0.0001			
+OTU768	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Microbotryomycetes_ord_Incertae_sedis	Order	0.96	Chrysozymaceae	Family	0.9216	Sampaiozyma	Genus	0.8847	Sampaiozyma_ingeniosa	Species	0.8493
+OTU769	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1						
+OTU77	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Hypocreales	Order	1	Cordycipitaceae	Family	1	Leptobacillium	Genus	1	Leptobacillium_chinense	Species	0.77
+OTU770	+	Fungi	Domain	1	Ascomycota	Phylum	0.76	Leotiomycetes	Class	0.5244	Helotiales	Order	0.3618	Helotiales_fam_Incertae_sedis	Family	0.0868	Cystodendron	Genus	0.0208			
+OTU771	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Agrostis	Genus	0.62	Agrostis_canina	Species	0.3844
+OTU772	+	Fungi	Domain	0.98	Basidiomycota	Phylum	0.9604	Agaricomycetes	Class	0.9412	Agaricales	Order	0.7906	Psathyrellaceae	Family	0.6641	Coprinellus	Genus	0.5512	Coprinellus_xanthothrix	Species	0.4465
+OTU773	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1			
+OTU774	+	Fungi	Domain	0.74	Ascomycota	Phylum	0.259	Lecanoromycetes	Class	0.0855	Gyalectales	Order	0.0145	Phlyctidaceae	Family	0.0025	Phlyctis	Genus	0.0004	Phlyctis_speirea	Species	0.0001
+OTU775	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	1	Trebouxiaceae	Family	1	Trebouxia	Genus	1	Trebouxia_potteri	Species	0.83
+OTU776	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Monocotyledonae	Class	1	Poales	Order	1	Poaceae	Family	1	Aegilops	Genus	0.6	Aegilops_bicornis	Species	0.288
+OTU777	+	Metazoa	Domain	0.93	Arthropoda	Phylum	0.8556	Collembola	Class	0.7872	Collembola_ord_Incertae_sedis	Order	0.7242	Isotomidae	Family	0.2607	Isotoma	Genus	0.0626			
+OTU778	+	Fungi	Domain	0.91	Ascomycota	Phylum	0.6006	Leotiomycetes	Class	0.3724	Helotiales	Order	0.2309	Ploettnerulaceae	Family	0.1431	Cadophora	Genus	0.0873	Cadophora_ferruginea	Species	0.0428
+OTU779	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Phlebia	Genus	1	Phlebia_livida	Species	1
+OTU78	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Trebouxiales	Order	0.98	Trebouxiaceae	Family	0.9604	Trebouxia	Genus	0.9412			
+OTU780	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Russulales	Order	1	Auriscalpiaceae	Family	1	Auriscalpium	Genus	1	Auriscalpium_vulgare	Species	0.98
+OTU781	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Herpotrichiellaceae	Family	1	Exophiala	Genus	0.89	Exophiala_phaeomuriformis	Species	0.7654
+OTU782	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Agaricaceae	Family	1	Lepiota	Genus	0.99	Lepiota_lilacea	Species	0.9801
+OTU783	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9702	Dothideomycetes	Class	0.9508	Pleosporales	Order	0.9223									
+OTU784	+	Eukaryota_kgd_Incertae_sedis	Domain	0.61																		
+OTU785	+	Viridiplantae	Domain	1	Chlorophyta	Phylum	1	Trebouxiophyceae	Class	1	Prasiolales	Order	1	Prasiolaceae	Family	1	Stichococcus	Genus	1	Stichococcus_bacillaris	Species	1
+OTU786	+	Fungi	Domain	1	Ascomycota	Phylum	1	Taphrinomycetes	Class	1	Taphrinales	Order	1	Protomycetaceae	Family	1						
+OTU787	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Ustilaginomycetes	Class	1	Ustilaginales	Order	1	Ustilaginaceae	Family	1	Ustilago	Genus	1	Ustilago_nunavutica	Species	1
+OTU788	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Dothideomycetes	Class	0.9409	Pleosporales	Order	0.7998	Didymosphaeriaceae	Family	0.6318	Tremateia	Genus	0.3538	Tremateia_chromolaenae	Species	0.1981
+OTU789	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9603	Eurotiomycetes	Class	0.9315	Eurotiales	Order	0.9035	Aspergillaceae	Family	0.8493	Penicillium	Genus	0.7559	Penicillium_simplicissimum	Species	0.2117
+OTU79	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Polyporaceae	Family	1	Fomes	Genus	1	Fomes_fasciatus	Species	1
+OTU790	+	Fungi	Domain	0.66	Ascomycota	Phylum	0.3564	Lecanoromycetes	Class	0.1497	Gyalectales	Order	0.015	Phlyctidaceae	Family	0.0015	Phlyctis	Genus	0.0001	Phlyctis_speirea	Species	0
+OTU791	+	Viridiplantae	Domain	0.98	Anthophyta	Phylum	0.9604	Monocotyledonae	Class	0.9412	Poales	Order	0.9224	Poaceae	Family	0.9039	Triticum	Genus	0.8135	Triticum_aestivum	Species	0.5939
+OTU792	+	Viridiplantae	Domain	0.92	Chlorophyta	Phylum	0.8464	Chlorophyceae	Class	0.7448	Sphaeropleales	Order	0.6257	Radiococcaceae	Family	0.5193	Neocystis	Genus	0.431			
+OTU793	+	Fungi	Domain	0.85	Ascomycota	Phylum	0.578	Lecanoromycetes	Class	0.2832	Ostropales	Order	0.0708	Graphidaceae	Family	0.0177	Gomphillus	Genus	0.0044	Gomphillus_calycioides	Species	0.0011
+OTU794	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Chaetothyriales	Order	1	Cyphellophoraceae	Family	0.98						
+OTU795	+	Viridiplantae	Domain	0.98	Chlorophyta	Phylum	0.9604	Trebouxiophyceae	Class	0.9412	Trebouxiales	Order	0.9035	Trebouxiaceae	Family	0.8674	Trebouxia	Genus	0.8327			
+OTU796	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.8613	Sordariomycetes	Class	0.5426	Xylariales	Order	0.3147	Xylariales_fam_Incertae_sedis	Family	0.1825	Fantasmomyces	Genus	0.1059	Fantasmomyces_hyalinus	Species	0.0614
+OTU797	+	Fungi	Domain	1																		
+OTU798	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Phaeosphaeriaceae	Family	0.99	Chaetosphaeronema	Genus	0.9801			
+OTU799	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Taphrinomycetes	Class	0.891	Taphrinales	Order	0.7484									
+OTU8	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Dioszegia	Genus	1	Dioszegia_hungarica	Species	0.7
+OTU80	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Microbotryomycetes	Class	1	Leucosporidiales	Order	1	Leucosporidiaceae	Family	1	Leucosporidium	Genus	0.99			
+OTU800	+	Fungi	Domain	1	Ascomycota	Phylum	1	Taphrinomycetes	Class	1	Taphrinales	Order	1	Taphrinaceae	Family	1	Taphrina	Genus	1	Taphrina_tormentillae	Species	1
+OTU801	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Microascales	Order	0.8	Ceratocystidaceae	Family	0.64	Ceratocystis	Genus	0.512	Ceratocystis_pilifera	Species	0.4096
+OTU802	+	Eukaryota_kgd_Incertae_sedis	Domain	0.27																		
+OTU803	+	Fungi	Domain	1	Mucoromycota	Phylum	1	Mucoromycetes	Class	1	Mucorales	Order	1	Lichtheimiaceae	Family	1	Rhizomucor	Genus	1	Rhizomucor_pusillus	Species	1
+OTU804	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Cystobasidiomycetes	Class	1	Cystobasidiales	Order	1	Cystobasidiaceae	Family	1	Cystobasidium	Genus	1	Cystobasidium_minuta	Species	0.43
+OTU805	+	Viridiplantae	Domain	1	Coniferophyta	Phylum	1	Pinopsida	Class	1	Pinales	Order	1	Pinaceae	Family	1	Picea	Genus	1	Picea_rubens	Species	1
+OTU806	+	Fungi	Domain	1	Basidiomycota	Phylum	0.64	Malasseziomycetes	Class	0.4096	Malasseziales	Order	0.2621	Malasseziaceae	Family	0.1678	Malassezia	Genus	0.1074	Malassezia_restricta	Species	0.0666
+OTU807	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Polyporales	Order	1	Meruliaceae	Family	1	Phlebia	Genus	1	Phlebia_tremellosa	Species	1
+OTU808	+	Viridiplantae	Domain	0.98	Anthophyta	Phylum	0.8918	Eudicotyledonae	Class	0.8115	Fagales	Order	0.6573	Fagaceae	Family	0.5325	Castanea	Genus	0.213	Castanea_pumila	Species	0.0703
+OTU809	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Sordariales	Order	1	Chaetomiaceae	Family	1	Arcopilus	Genus	0.99	Arcopilus_tangerinicapillus	Species	0.7326
+OTU81	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Dothideomycetes	Class	0.9703	Pleosporales	Order	0.9606	Pleosporaceae	Family	0.951	Alternaria	Genus	0.9415	Alternaria_rosae	Species	0.3578
+OTU810	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Malasseziomycetes	Class	1	Malasseziales	Order	1	Malasseziaceae	Family	1	Malassezia	Genus	1	Malassezia_furfur	Species	1
+OTU811	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Verrucariales	Order	1	Verrucariaceae	Family	0.96	Verrucaria	Genus	0.8736			
+OTU812	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.9	Pleosporales	Order	0.81	Lentitheciaceae	Family	0.729	Pleurophoma	Genus	0.6561	Pleurophoma_ossicola	Species	0.479
+OTU813	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.97	Eudicotyledonae	Class	0.9409	Fagales	Order	0.9127	Fagaceae	Family	0.8762	Quercus	Genus	0.8236	Quercus_ilex	Species	0.2306
+OTU814	+	Viridiplantae	Domain	0.98	Anthophyta	Phylum	0.9604	Monocotyledonae	Class	0.9316	Poales	Order	0.9036	Poaceae	Family	0.8765	Elymus	Genus	0.5347	Elymus_nutans	Species	0.3048
+OTU815	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Xylariales	Order	1									
+OTU816	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	0.96	Pleosporales	Order	0.9216	Lophiostomataceae	Family	0.3686	Lophiostoma	Genus	0.1475			
+OTU817	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Leptosphaeriaceae	Family	1	Ampelomyces	Genus	1	Ampelomyces_quisqualis	Species	0.64
+OTU818	+	Fungi	Domain	0.88	Ascomycota	Phylum	0.7568	Eurotiomycetes	Class	0.6508	Eurotiales	Order	0.5597	Aspergillaceae	Family	0.4814	Penicillium	Genus	0.3755	Penicillium_angulare	Species	0.1952
+OTU819	+	Stramenopila	Domain	1	Ochrophyta	Phylum	1															
+OTU82	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Pleosporales	Order	0.9703									
+OTU820	+	Fungi	Domain	1	Ascomycota	Phylum	0.98	Dothideomycetes	Class	0.9506	Pleosporales	Order	0.9221	Phaeosphaeriaceae	Family	0.8299	Parastagonospora	Genus	0.6473	Parastagonospora_stipae	Species	0.2266
+OTU821	+	Viridiplantae	Domain	0.84	Coniferophyta	Phylum	0.6804	Pinopsida	Class	0.5511	Pinales	Order	0.4464	Pinaceae	Family	0.2812	Abies	Genus	0.09	Abies_beshanzuensis	Species	0.0288
+OTU822	+	Fungi	Domain	0.57	Ascomycota	Phylum	0.2394	Lecanoromycetes	Class	0.0598	Gyalectales	Order	0.0072	Phlyctidaceae	Family	0.0009	Phlyctis	Genus	0.0001	Phlyctis_speirea	Species	0
+OTU823	+	Fungi	Domain	1	Basidiomycota	Phylum	0.99	Malasseziomycetes	Class	0.9801	Malasseziales	Order	0.9703	Malasseziaceae	Family	0.9606	Malassezia	Genus	0.951	Malassezia_arunalokei	Species	0.932
+OTU824	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Lamiales	Order	1	Lamiaceae	Family	1	Origanum	Genus	1	Origanum_majorana	Species	0.66
+OTU825	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1															
+OTU826	+	Fungi	Domain	0.99	Ascomycota	Phylum	0.9801	Sordariomycetes	Class	0.9703	Xylariales	Order	0.9606	Bartaliniaceae	Family	0.7108	Bartalinia	Genus	0.526	Bartalinia_pondoensis	Species	0.2051
+OTU827	+	Fungi	Domain	1	Ascomycota	Phylum	0.97	Sordariomycetes	Class	0.7954	Hypocreales	Order	0.6443									
+OTU828	+	Fungi	Domain	0.67	Ascomycota	Phylum	0.4422	Lecanoromycetes	Class	0.2609	Gyalectales	Order	0.0861	Phlyctidaceae	Family	0.0284	Phlyctis	Genus	0.0094	Phlyctis_speirea	Species	0.0031
+OTU829	+	Eukaryota_kgd_Incertae_sedis	Domain	0.73																		
+OTU83	+	Fungi	Domain	1	Ascomycota	Phylum	0.96	Dothideomycetes	Class	0.9216	Pleosporales	Order	0.8847	Phaeosphaeriaceae	Family	0.7786	Septoriella	Genus	0.6306	Septoriella_hollandica	Species	0.3532
+OTU84	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Tremellales	Order	1	Bulleribasidiaceae	Family	1	Vishniacozyma	Genus	1	Vishniacozyma_victoriae	Species	0.97
+OTU85	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Pleosporales	Order	1	Pleosporaceae	Family	1	Exserohilum	Genus	0.94	Exserohilum_gedarefense	Species	0.376
+OTU86	+	Fungi	Domain	1	Ascomycota	Phylum	1															
+OTU87	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Cucurbitales	Order	1	Cucurbitaceae	Family	1	Cucurbita	Genus	0.93	Cucurbita_lundelliana	Species	0.5487
+OTU88	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Tremellomycetes	Class	1	Filobasidiales	Order	1	Filobasidiaceae	Family	1	Filobasidium	Genus	1	Filobasidium_magnum	Species	0.68
+OTU89	+	Viridiplantae	Domain	1	Anthophyta	Phylum	1	Eudicotyledonae	Class	1	Caryophyllales	Order	1	Polygonaceae	Family	1	Polygonum	Genus	1	Polygonum_arenarium	Species	0.97
+OTU9	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Agaricomycetes	Class	1	Agaricales	Order	1	Agaricaceae	Family	1	Agaricus	Genus	1	Agaricus_bisporus	Species	0.99
+OTU90	+	Viridiplantae	Domain	1	Anthophyta	Phylum	0.99	Eudicotyledonae	Class	0.9801	Fagales	Order	0.9703	Fagaceae	Family	0.9606	Quercus	Genus	0.951	Quercus_aliena	Species	0.2853
+OTU91	+	Fungi	Domain	1	Ascomycota	Phylum	1	Saccharomycetes	Class	1	Saccharomycetales	Order	1	Eremotheciaceae	Family	1	Eremothecium	Genus	1	Eremothecium_coryli	Species	0.93
+OTU92	+	Fungi	Domain	1	Ascomycota	Phylum	1	Sordariomycetes	Class	1	Microascales	Order	1	Ceratocystidaceae	Family	1	Ceratocystis	Genus	0.78	Ceratocystis_adiposa	Species	0.6084
+OTU93	+	Fungi	Domain	0.67	Ascomycota	Phylum	0.4489	Sordariomycetes	Class	0.2334	Hypocreales	Order	0.1214	Hypocreales_fam_Incertae_sedis	Family	0.0473	Acremonium	Genus	0.0185	Acremonium_polychromum	Species	0.0072
+OTU94	+	Fungi	Domain	1	Ascomycota	Phylum	0.99	Dothideomycetes	Class	0.9801	Pleosporales	Order	0.9703									
+OTU95	+	Fungi	Domain	1	Basidiomycota	Phylum	0.91	Tremellomycetes	Class	0.8281	Filobasidiales	Order	0.7536	Filobasidiaceae	Family	0.6857	Naganishia	Genus	0.624	Naganishia_globosa	Species	0.2309
+OTU96	+	Fungi	Domain	1	Ascomycota	Phylum	1	Dothideomycetes	Class	1	Capnodiales	Order	0.99	Neodevriesiaceae	Family	0.9801	Neodevriesia	Genus	0.9507			
+OTU97	+	Fungi	Domain	1	Ascomycota	Phylum	1	Eurotiomycetes	Class	1	Eurotiales	Order	1	Aspergillaceae	Family	1	Aspergillus	Genus	1	Aspergillus_intermedius	Species	0.39
+OTU98	+	Viridiplantae	Domain	0.99	Bryophyta	Phylum	0.9801	Bryopsida	Class	0.9605	Pottiales	Order	0.9413	Pottiaceae	Family	0.9225	Tortula	Genus	0.821			
+OTU99	+	Fungi	Domain	1	Basidiomycota	Phylum	1	Exobasidiomycetes	Class	1	Entylomatales	Order	1	Entylomataceae	Family	1	Entyloma	Genus	1	Entyloma_calendulae	Species	0.75

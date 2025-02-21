@@ -12,7 +12,6 @@ title: "Kelli's repo for unsorted R code projects"
 ```{r render-site, include=FALSE,eval=F}
 library(rmarkdown)
 library(bookdown)
-getwd()
 #knit this then commit and push
 
 #render homelink
