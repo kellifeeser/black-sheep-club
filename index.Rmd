@@ -1,0 +1,41 @@
+---
+title: "Kelli's repo for unsorted R code projects"
+---
+
+## Various Microbial Ecology Projects {.unnumbered}
+
+<https://kellifeeser.github.io/black-sheep-club/>
+
+\
+\
+
+```{r render-site, include=FALSE,eval=F}
+library(rmarkdown)
+library(bookdown)
+getwd()
+#knit this then commit and push
+
+#render homelink
+# rmarkdown::render("homelink.Rmd", output_file="/Users/L347123/Desktop/black-sheep-club/code/homelink")
+
+#render darksidea
+rmarkdown::render("DanaeB_dataset/code/index_Danae.Rmd", output_file="/Users/L347123/Desktop/black-sheep-club/docs/index_Danae")
+```
+
+
+Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here for current diversity paper analyses</a>.
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+![*Note this site is usually empty/locked down. Thanks for visiting.*](images/moses.png){width="1in"}
+
+
