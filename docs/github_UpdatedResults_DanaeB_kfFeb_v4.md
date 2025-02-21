@@ -71,27 +71,27 @@ Document last updated: 2025-02-21
 
 > 1\. [**DB:** "First, to answer your question regarding"you would want me to remove samples without a corresponding cross-kingdom match, so if sample X128 has no 16S reads, then I should also remove it from the ITS dataset as well, and vice versa" ---\> No, how you did it is perfect and we would like to keep it this way (so keeping the unpaired cross-kingdom mate)".]{style="color: blue;"}
 >
-> -   **KF:** Great! I will continue with keeping the unpaired cross-kingdom mate
+> -   **KF:** Great! I will continue with keeping the unpaired cross-kingdom mate.
 
 > 2\. [**DB:** "Figure 1: For the alpha-diversity measure, do you think you could do the same measures also within each power plant? That would allow us to see if there are changes in alpha diversity between the different sampling point in each power plant"]{style="color: blue;"}
 >
-> -   **KF:** [in-progress]
+> -   **KF:** yes [in-progress]
 
 > 3\. [**DB:** "Figure 2: For the NMDS: is it possible to test the impact of environmental factors (such as temperature or pH of the fluids. The environmental factors are included in the metadata, I can send them again if needed) on the distributions?  And on the general NMDS, do you think that it would be possible to change the icons of each power plant, so that we can see if the points represent the production, the heat central or the injection well? If this is not possible for all power plants, we would at least be interested to see it for Bad Blumau."]{style="color: blue;"}
 >
-> -   **KF:** [in-progress]
+> -   **KF:** yes and yes. I do have the metadata already. [in-progress]
 
 > 4\. [**DB:** "(Figure 2): Also, do you think that it would make sense to do an NMDS for each power plant separately (again, to see changes between the wells)? So that we could build a figure as the one attached (example for Heemskerk). "]{style="color: blue;"}
 >
-> -   **KF:** [in-progress]
+> -   **KF:** I'll try it and see! [in-progress]
 
 > 5\. [**DB:** "Genus-level figures: These figures are really nice. However, for Krafla and Theistareykir, there are several production and several injection wells. Would it be possible for you to do the same figures, but spliting them by"Well"  (ex. K-06) rather than by the "type of well" (production or injection)? I am sorry, I should have seen that before. And for Bad Blumau, would it be possible for you to change the order of the wells displayed (to have production - heat central - injection)? That would follow the path of the power plant itself."]{style="color: blue;"}
 >
-> -   **KF:** [in-progress]
+> -   **KF:** Not a problem and yes! [in-progress]
 
 > 6\. [**DB:** "Final figures: when we have all the final figures, would it be possible for you to send them to me as PDF, so that if we need to change small things (like sample names or things like that), I could change them myself without bothering you with details? "]{style="color: blue;"}
 >
-> -   **KF:** Yes! My first few attempts to email over the last round of updates failed because I had included the folder of all figures generated. For that reason, I proposed hosting the updates and files on my GitHub. The analyses can be found here: <https://kellifeeser.github.io/black-sheep-club/index_Danae.html>. That page has links to the [Read Processing Results](https://kellifeeser.github.io/black-sheep-club/1_ReadProcessing_Danae_B_kf.html "Read Processing Results") and the [Prior Analyses (from Dec 2024/Jan 2025)](https://kellifeeser.github.io/black-sheep-club/2_UpdatedResults_DanaeB_kfDec_v3.html "Prior Analyses (from Dec 2024/Jan 2025)"). The data, files, and figures produced can be downloaded from here: . Please let me know if you need help finding anything. The advantage of this approach is that it can let you see updates and progress in real-time. I am happy to keep communicating via email for questions, requests, editing, etc. I think this will make file sharing easier.
+> -   **KF:** Yes! My first few attempts to email over the last round of updates failed because I had included the folder of all figures generated. For that reason, I proposed hosting the updates and files on my GitHub. The webpage containing links to the analyses can be found here: <https://kellifeeser.github.io/black-sheep-club/index_Danae.html>. That page has links to the [Current Analyses](https://kellifeeser.github.io/black-sheep-club/github_UpdatedResults_DanaeB_kfFeb_v4.html "Current Analyses"), [Read Processing Results](https://kellifeeser.github.io/black-sheep-club/1_ReadProcessing_Danae_B_kf.html "Read Processing Results") and the [Prior Analyses (from Dec 2024/Jan 2025)](https://kellifeeser.github.io/black-sheep-club/2_UpdatedResults_DanaeB_kfDec_v3.html "Prior Analyses (from Dec 2024/Jan 2025)"). The data, files, and figures produced can be downloaded from here: <https://github.com/kellifeeser/black-sheep-club/tree/main/docs/DanaeB_dataset/processed_data_DB>. Please let me know if you need help finding anything. The advantage of this approach is that it can let you see updates and progress in real-time. I am happy to keep communicating via email for questions, requests, editing, etc. I think this will make file sharing easier.
 >
 > -   For the final figures, it is very easy for me to export and share all figures in almost any format (pdf, tiff, png, etc.). Similarly, I can export the figures to match any figure requirements of your intended journal, e.g., dimensions, resolution, font size, font family... Please feel free to just let me know what you'd like, or where you want to take over with manual edits on any figures.
 
@@ -1406,7 +1406,6 @@ kbl(Bac.Genus.names.to.plot_Theistareykir_byPairTempDepthA[,1:2],
 #  {.unlisted .unnumbered}
 
 \
-
 
 ------------------------------------------------------------------------
 

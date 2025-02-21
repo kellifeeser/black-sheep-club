@@ -30,7 +30,7 @@ Document last updated: 2025-02-21
 
 
 
-Danae, Pilar and others <a href="2_UpdatedResults_DanaeB_kfFeb_v4.html" target="_blank">click here for current diversity paper analyses</a>.
+Danae, Pilar and others <a href="github_UpdatedResults_DanaeB_kfFeb_v4.html" target="_blank">click here for current diversity paper analyses</a>.
 
 -   <a href="1_ReadProcessing_Danae_B_kf.html" target="_blank">Read Processing Results</a>
 
