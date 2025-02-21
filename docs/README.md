@@ -1,1 +1,12 @@
-# Data Visualization via Github Pages env. See kellifeeser.github.io/[repo]/index.html for viewing output of analyses
+# Kelli's repo for unsorted R code projects
+
+\
+
+https://kellifeeser.github.io/black-sheep-club/
+
+\
+
+Danae, Pilar and other click above link for diversity paper analyses.
+
+
+Note this site is usually empty/locked down.

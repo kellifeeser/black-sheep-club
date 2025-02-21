@@ -1,4 +1,4 @@
-name: "my-website"
+name: "microbial ecology projects"
 navbar:
   title: "My Website"
   left:
@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+
+baseurl: "black-sheep-club/" # Set your base URL here

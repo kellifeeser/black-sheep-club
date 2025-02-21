@@ -4,6 +4,8 @@ title: "Kelli's repo for unsorted R code projects"
 
 ## Various Microbial Ecology Projects
 
+<https://kellifeeser.github.io/black-sheep-club/>
+
 Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here for current diversity paper analyses</a>.
 
 \
