@@ -1,9 +1,16 @@
 ---
-title: "My Website"
+title: "Kelli's repo for unsorted R code projects"
 ---
 
-Hello, Website!
+## Various Microbial Ecology Projects
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here for current diversity paper analyses</a>.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+\
+\
+\
+\
+\
+![Thanks for visiting.](images/moses.png){width="1in"}
+
+*Note this site is usually empty/locked down. Thanks for visiting.*
