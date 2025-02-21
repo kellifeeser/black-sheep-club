@@ -6,9 +6,9 @@ title: "Kelli's repo for unsorted R code projects"
 \
 \
 
-## Updated Results for paired amplicons: Danae B Dataset
+## Updated Results for paired amplicons: Danae B Dataset {.unnumbered}
 
-Danae, Pilar and others <a href="DistributionOfDarksideaMono.html" target="_blank">click here for current diversity paper analyses</a>.
+Danae, Pilar and others <a href="2_UpdatedResults_DanaeB_kfDec_v3.html" target="_blank">click here for current diversity paper analyses</a>.
 
 -   <a href="1_ReadProcessing_Danae_B_kf.html" target="_blank">Read Processing Results</a>
 

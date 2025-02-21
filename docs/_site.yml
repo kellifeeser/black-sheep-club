@@ -1,10 +1,12 @@
 name: "microbial ecology projects"
+output:
+  bookdown::html_document2:
 navbar:
-  title: "My Website"
+  title: "black-sheep-club"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Danae's Data"
+      href: index_Danae.html
 
 baseurl: "black-sheep-club/" # Set your base URL here
