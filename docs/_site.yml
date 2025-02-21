@@ -1,14 +1,14 @@
 name: "microbial ecology projects"
 output:
   bookdown::html_document2:
-    lib_dir: docs/site_libs
+    lib_dir: site_/site_libs
 output_dir: docs
 navbar:
   title: "black-sheep-club"
   left:
     - text: "Home"
-      href: _site/index.html
+      href: index.html
     - text: "Danae's Data"
-      href: _site/index_Danae.html
+      href: index_Danae.html
 
-baseurl: "black-sheep-club/docs/" # Set your base URL here
+baseurl: "black-sheep-club/" # Set your base URL here
