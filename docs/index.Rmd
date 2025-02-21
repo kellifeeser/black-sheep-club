@@ -6,6 +6,9 @@ title: "Kelli's repo for unsorted R code projects"
 
 <https://kellifeeser.github.io/black-sheep-club/>
 
+\
+\
+
 Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here for current diversity paper analyses</a>.
 
 \
@@ -13,6 +16,12 @@ Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here fo
 \
 \
 \
+\
+\
+\
+\
+\
+
 ![Thanks for visiting.](images/moses.png){width="1in"}
 
 *Note this site is usually empty/locked down. Thanks for visiting.*
