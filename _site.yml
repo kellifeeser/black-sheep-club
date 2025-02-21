@@ -9,6 +9,6 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Danae's Data"
-      href: docs/index_Danae.html
+      href: index_Danae.html
 
 baseurl: "/black-sheep-club/" # Set your base URL here

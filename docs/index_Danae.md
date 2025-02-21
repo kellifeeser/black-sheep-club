@@ -18,11 +18,13 @@ output:
 
 ## Danae B Dataset: Updated Results for paired amplicons  {.unnumbered}
 
+
+
 Danae, Pilar and others <a href="2_UpdatedResults_DanaeB_kfDec_v3.html" target="_blank">click here for current diversity paper analyses</a>.
 
 -   <a href="1_ReadProcessing_Danae_B_kf.html" target="_blank">Read Processing Results</a>
 
--   <a href="2_UpdatedResults_DanaeB_kfDec_v3.html" target="_blank">Prior Results (Jan 2025)</a>
+-   <a href="github_UpdatedResults_DanaeB_kfDec_v3.html" target="_blank">Prior Results (Jan 2025)</a>
 
 \
 \
