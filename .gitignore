@@ -55,5 +55,6 @@ black-sheep-club.Rproj
 metadata/
 figures/
 analyses/
+_docs_OG/
 *.RData
 

@@ -1,0 +1,87 @@
+---
+title: "BFI workflow templates"
+---
+
+\
+\
+
+------------------------------------------------------------------------
+
+Page last updated: `r Sys.Date()`
+
+------------------------------------------------------------------------
+
+\
+\
+\
+
+# **BFI workflow templates in-progress**
+
+
+<a href="code/1_ReadProcessing_Danae_B_kf_TEMPLATE_1_seqprocessing.html" target="_blank">Module 1: Sequence Processing</a>\
+  
+<a href="code/1_ReadProcessing_Danae_B_kf_TEMPLATE_2_OTUfiltering.html" target="_blank">Module 2: OTU Filtering</a>
+
+\
+
+
+```{r render-site, include=FALSE,eval=F}
+library(rmarkdown)
+library(bookdown)
+#knit this then commit and push
+
+#render v3
+# rmarkdown::render("2_UpdatedResults_DanaeB_kfDec_v3.Rmd", output_file="/Users/L347123/Desktop/black-sheep-club/docs/github_UpdatedResults_DanaeB_kfDec_v3")
+
+#render v4
+rmarkdown::render("2_UpdatedResults_DanaeB_kfFeb_v4.Rmd", output_file="/Users/L347123/Desktop/black-sheep-club/docs/github_UpdatedResults_DanaeB_kfFeb_v4")
+```
+
+
+\
+
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+
