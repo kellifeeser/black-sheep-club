@@ -2,6 +2,7 @@ name: "microbial ecology projects"
 output:
   bookdown::html_document2:
     lib_dir: docs/site_libs
+exclude: ["docs.txt", "*.csv"]
 output_dir: docs
 navbar:
   title: "black-sheep-club"

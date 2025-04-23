@@ -19,6 +19,8 @@ library(bookdown)
 
 #render index_Danae.Rmd
 rmarkdown::render("DanaeB_dataset/code/index_Danae.Rmd", output_file="/Users/L347123/Desktop/black-sheep-club/docs/index_Danae")
+
+rmarkdown::clean_site(preview = TRUE)
 ```
 
 
@@ -26,6 +28,14 @@ Danae, Pilar and others <a href="index_Danae.html" target="_blank">click here fo
 
 \
 \
+
+# **BFI workflow templates in-progress**
+
+
+<a href="1_ReadProcessing_Danae_B_kf_TEMPLATE_1_seqprocessing.html" target="_blank">Module 1: Sequence Processing</a>\
+  
+<a href="1_ReadProcessing_Danae_B_kf_TEMPLATE_2_OTUfiltering.html" target="_blank">Module 2: OTU Filtering</a>
+
 \
 \
 \
